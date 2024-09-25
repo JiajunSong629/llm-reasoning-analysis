@@ -1,0 +1,78 @@
+{
+    "llama-3-8b": {
+        "8": {
+            "has_alice": 1.0,
+            "has_not": 1.0,
+            "label": 0.9933333396911621,
+            "has_alice xor has_not": 1.0,
+            "has_alice xor label": 0.9416666626930237,
+            "has_not xor label": 0.9983333349227905,
+            "has_alice xor has_not xor label": 0.9666666388511658
+        },
+        "10": {
+            "has_alice": 1.0,
+            "has_not": 1.0,
+            "label": 0.9983333349227905,
+            "has_alice xor has_not": 1.0,
+            "has_alice xor label": 0.9733333587646484,
+            "has_not xor label": 0.9983333349227905,
+            "has_alice xor has_not xor label": 0.9883333444595337
+        },
+        "12": {
+            "has_alice": 1.0,
+            "has_not": 1.0,
+            "label": 0.9983333349227905,
+            "has_alice xor has_not": 1.0,
+            "has_alice xor label": 0.9916666746139526,
+            "has_not xor label": 1.0,
+            "has_alice xor has_not xor label": 0.996666669845581
+        },
+        "14": {
+            "has_alice": 1.0,
+            "has_not": 1.0,
+            "label": 0.9983333349227905,
+            "has_alice xor has_not": 0.9983333349227905,
+            "has_alice xor label": 0.9850000143051147,
+            "has_not xor label": 0.9983333349227905,
+            "has_alice xor has_not xor label": 0.9933333396911621
+        }
+    },
+    "llama-2-7b": {
+        "8": {
+            "has_alice": 0.5233333110809326,
+            "has_not": 1.0,
+            "label": 0.5083333253860474,
+            "has_alice xor has_not": 0.5116666555404663,
+            "has_alice xor label": 0.40166667103767395,
+            "has_not xor label": 0.8666666746139526,
+            "has_alice xor has_not xor label": 0.5216666460037231
+        },
+        "10": {
+            "has_alice": 1.0,
+            "has_not": 0.5,
+            "label": 0.6433333158493042,
+            "has_alice xor has_not": 0.4816666543483734,
+            "has_alice xor label": 0.49166667461395264,
+            "has_not xor label": 0.9649999737739563,
+            "has_alice xor has_not xor label": 0.5133333206176758
+        },
+        "12": {
+            "has_alice": 0.49666666984558105,
+            "has_not": 1.0,
+            "label": 0.5049999952316284,
+            "has_alice xor has_not": 0.7149999737739563,
+            "has_alice xor label": 0.38999998569488525,
+            "has_not xor label": 0.5299999713897705,
+            "has_alice xor has_not xor label": 0.5199999809265137
+        },
+        "14": {
+            "has_alice": 0.5333333611488342,
+            "has_not": 1.0,
+            "label": 0.49000000953674316,
+            "has_alice xor has_not": 0.6349999904632568,
+            "has_alice xor label": 0.4866666793823242,
+            "has_not xor label": 0.9916666746139526,
+            "has_alice xor has_not xor label": 0.6000000238418579
+        }
+    }
+}

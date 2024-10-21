@@ -1,0 +1,96 @@
+Alice is healthy. Is Alice healthy? The answer is yes. Alice is healthy. Is Alice healthy?
+-------------------------------------
+Alice is unhealthy. Is Alice healthy? The answer is no. Alice is unhealthy. Alice is healthy.
+-------------------------------------
+Alice is not healthy. Is Alice healthy? The answer is no. Alice is not healthy. Alice is not
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy? The answer is yes. Alice is healthy. Alice is not unhealthy
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? The answer is yes. Bob is healthy. Is Bob healthy?
+-------------------------------------
+Bob is unhealthy. Is Bob healthy? The answer is no. Bob is not healthy. Bob is unhealthy
+-------------------------------------
+Bob is not healthy. Is Bob healthy? The answer is no. Bob is not healthy. Bob is not
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy? The answer is yes. Bob is healthy. Bob is not unhealthy
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy? The answer is yes. Charlie is healthy. Is Charlie healthy?
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy? The answer is no. Charlie is not healthy. Charlie is not
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy? The answer is no. Charlie is not healthy. Charlie is not
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy? The answer is yes. Charlie is healthy. Charlie is not unhealthy
+-------------------------------------
+
+
+Alice is happy. Is Alice happy? The answer is yes. Alice is happy. Alice is happy.
+-------------------------------------
+Alice is unhappy. Is Alice happy? The answer is yes. Alice is happy. Alice is unhappy.
+-------------------------------------
+Alice is not happy. Is Alice happy? The answer is no. Alice is not happy. Alice is not
+-------------------------------------
+Alice is not unhappy. Is Alice happy? The answer is no. Alice is not happy. Alice is not
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? The answer is yes. Bob is happy. Bob is happy.
+-------------------------------------
+Bob is unhappy. Is Bob happy? The answer is no. Bob is not happy. Bob is unhappy
+-------------------------------------
+Bob is not happy. Is Bob happy? The answer is no. Bob is not happy. Bob is not
+-------------------------------------
+Bob is not unhappy. Is Bob happy? The answer is no. Bob is not happy. Bob is not
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? The answer is yes. Charlie is happy. Charlie is happy.
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? The answer is no. Charlie is not happy. Charlie is not
+-------------------------------------
+Charlie is not happy. Is Charlie happy? The answer is no. Charlie is not happy. Charlie is not
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy? The answer is no. Charlie is not happy. Charlie is not
+-------------------------------------
+
+
+Alice is kind. Is Alice kind? The answer is yes. Alice is kind. Is Alice kind?
+-------------------------------------
+Alice is unkind. Is Alice kind? The answer is yes. Alice is kind. Alice is unkind.
+-------------------------------------
+Alice is not kind. Is Alice kind? The answer is no. Alice is not kind. Is Alice kind
+-------------------------------------
+Alice is not unkind. Is Alice kind? The answer is no. Alice is not kind.
+
+Alice is
+-------------------------------------
+
+
+Bob is kind. Is Bob kind? The answer is yes. Bob is kind. Bob is kind.
+-------------------------------------
+Bob is unkind. Is Bob kind? The answer is no.
+
+Bob is unkind. Is Bob kind
+-------------------------------------
+Bob is not kind. Is Bob kind? The answer is no. Bob is not kind. Is Bob kind
+-------------------------------------
+Bob is not unkind. Is Bob kind? The answer is no.
+
+Bob is not unkind. Is Bob
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind? The answer is yes. Charlie is kind. Charlie is kind.
+-------------------------------------
+Charlie is unkind. Is Charlie kind? The answer is yes. Charlie is kind. Charlie is unkind.
+-------------------------------------
+Charlie is not kind. Is Charlie kind? The answer is no. Charlie is not kind. Charlie is not
+-------------------------------------
+Charlie is not unkind. Is Charlie kind? The answer is yes. Charlie is kind. Charlie is not unkind
+-------------------------------------
+
+

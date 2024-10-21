@@ -1,0 +1,51 @@
+Sequence 0 Top3: false False none
+Sequence 1 Top3: false false False
+Sequence 2 Top3: false none false
+Sequence 3 Top3: false False False
+Sequence 4 Top3: False FALSE false
+Sequence 5 Top3: FALSE False negative
+Sequence 6 Top3: fewer None none
+Sequence 7 Top3: false false False
+Sequence 8 Top3: false false False
+--------------------------------------
+PC 0 Top3: /******/ twice Both
+PC 1 Top3: Autom correct bott
+PC 2 Top3: uncertain unknown depends
+PC 3 Top3: both Both both
+PC 4 Top3: arry illet ensis
+#######################################
+
+Sequence 0 Top3: false none false
+Sequence 1 Top3: false false False
+Sequence 2 Top3: false none false
+Sequence 3 Top3: negative false false
+Sequence 4 Top3: false FALSE false
+Sequence 5 Top3: FALSE negative FALSE
+Sequence 6 Top3: none NOT negative
+Sequence 7 Top3: false negative false
+Sequence 8 Top3: none false negative
+--------------------------------------
+PC 0 Top3: isz liferay hens
+PC 1 Top3: obviously obvious roz
+PC 2 Top3: depending depends dependent
+PC 3 Top3: B Nar /******/
+PC 4 Top3: uber ttp excessive
+#######################################
+
+Sequence 0 Top3: unknown unknown undefined
+Sequence 1 Top3: unknown unknown undefined
+Sequence 2 Top3: unknown unknown undefined
+Sequence 3 Top3: unknown unknown neither
+Sequence 4 Top3: neither unknown undefined
+Sequence 5 Top3: neither unknown impossible
+Sequence 6 Top3: unknown undefined unknown
+Sequence 7 Top3: unknown unknown undefined
+Sequence 8 Top3: unknown unknown neither
+--------------------------------------
+PC 0 Top3: /******/ both both
+PC 1 Top3: omas lifestyle Kas
+PC 2 Top3: ch silent depending
+PC 3 Top3: Victorian matter ev
+PC 4 Top3: Victorian yt intro
+#######################################
+

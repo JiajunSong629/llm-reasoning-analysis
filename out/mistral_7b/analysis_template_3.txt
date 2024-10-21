@@ -1,0 +1,51 @@
+Sequence 0 Top3: negative none false
+Sequence 1 Top3: false none negative
+Sequence 2 Top3: false negative contrad
+Sequence 3 Top3: incorrect wrong negative
+Sequence 4 Top3: none incorrect negative
+Sequence 5 Top3: incorrect negative wrong
+Sequence 6 Top3: incorrect negative none
+Sequence 7 Top3: none negative contrad
+Sequence 8 Top3: negative incorrect contrad
+--------------------------------------
+PC 0 Top3: oche incorrect ‘
+PC 1 Top3: accidentally inta ĩ
+PC 2 Top3: atform both Both
+PC 3 Top3: puzz Pag nut
+PC 4 Top3: favour prior both
+#######################################
+
+Sequence 0 Top3: negative false none
+Sequence 1 Top3: negative false none
+Sequence 2 Top3: negative false negative
+Sequence 3 Top3: incorrect wrong Nieder
+Sequence 4 Top3: incorrect none negative
+Sequence 5 Top3: incorrect negative negative
+Sequence 6 Top3: negative incorrect false
+Sequence 7 Top3: negative false False
+Sequence 8 Top3: negative negative false
+--------------------------------------
+PC 0 Top3: strictly contrad negative
+PC 1 Top3: ǧ Autow ifa
+PC 2 Top3: £ whilst fraction
+PC 3 Top3: >{@ Korean pron
+PC 4 Top3: /******/ örd /***/
+#######################################
+
+Sequence 0 Top3: isz inte reasoning
+Sequence 1 Top3: isz ista reasoning
+Sequence 2 Top3: reasoning isz ista
+Sequence 3 Top3: reasoning incorrect mistaken
+Sequence 4 Top3: reasoning tempt mistaken
+Sequence 5 Top3: incorrect wrong hesitated
+Sequence 6 Top3: incorrect correctly puzz
+Sequence 7 Top3: puzz incorrect reasoning
+Sequence 8 Top3: incorrect wrong mistaken
+--------------------------------------
+PC 0 Top3: gram idle ieb
+PC 1 Top3: reward dynam publicly
+PC 2 Top3: naam swung Brun
+PC 3 Top3: oral synchronized ография
+PC 4 Top3: � ADC computer
+#######################################
+

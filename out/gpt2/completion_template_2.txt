@@ -1,0 +1,166 @@
+Alice is healthy. Is Alice healthy? The answer is yes.
+
+The question is, is Alice
+-------------------------------------
+Alice is unhealthy. Is Alice healthy? The answer is no.
+
+The answer is no.
+
+-------------------------------------
+Alice is not healthy. Is Alice healthy? The answer is yes.
+
+The answer is no.
+
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy? The answer is no.
+
+The answer is no.
+
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? The answer is no.
+
+Bob is healthy. Is Bob
+-------------------------------------
+Bob is unhealthy. Is Bob healthy? The answer is no.
+
+The answer is no. The
+-------------------------------------
+Bob is not healthy. Is Bob healthy? The answer is no.
+
+The answer is no. The
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy? The answer is no.
+
+The answer is no. The
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy? The answer is no.
+
+"I don't know,"
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy? The answer is no.
+
+The answer is no.
+
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy? The answer is no.
+
+"I think he's healthy
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy? The answer is no.
+
+"I think he's healthy
+-------------------------------------
+
+
+Alice is happy. Is Alice happy? The answer is no.
+
+"I'm not happy,"
+-------------------------------------
+Alice is unhappy. Is Alice happy? The answer is no.
+
+The answer is no. The
+-------------------------------------
+Alice is not happy. Is Alice happy? The answer is no.
+
+"I don't know,"
+-------------------------------------
+Alice is not unhappy. Is Alice happy? The answer is no.
+
+"I am not happy,"
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? The answer is no.
+
+"I'm not happy,"
+-------------------------------------
+Bob is unhappy. Is Bob happy? The answer is no. He is not happy. He is not
+-------------------------------------
+Bob is not happy. Is Bob happy? The answer is no.
+
+"I'm not happy,"
+-------------------------------------
+Bob is not unhappy. Is Bob happy? The answer is no.
+
+"I don't think he
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? The answer is yes.
+
+"I think he's happy
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? The answer is no.
+
+"I don't know,"
+-------------------------------------
+Charlie is not happy. Is Charlie happy? The answer is no.
+
+"I'm not happy,"
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy? The answer is no.
+
+"I'm not happy,"
+-------------------------------------
+
+
+Alice is kind. Is Alice kind? The answer is no.
+
+The answer is no.
+
+-------------------------------------
+Alice is unkind. Is Alice kind? The answer is yes.
+
+The first thing to understand is
+-------------------------------------
+Alice is not kind. Is Alice kind? The answer is no.
+
+"I'm not a bad
+-------------------------------------
+Alice is not unkind. Is Alice kind? The answer is yes.
+
+The first thing to understand is
+-------------------------------------
+
+
+Bob is kind. Is Bob kind? The answer is no.
+
+The answer is no. The
+-------------------------------------
+Bob is unkind. Is Bob kind? The answer is no.
+
+The answer is no. The
+-------------------------------------
+Bob is not kind. Is Bob kind? The answer is no.
+
+The answer is yes.
+
+-------------------------------------
+Bob is not unkind. Is Bob kind? The answer is no.
+
+Bob is a man of many
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind? The answer is yes.
+
+"I think he's a
+-------------------------------------
+Charlie is unkind. Is Charlie kind? The answer is no.
+
+"I don't know,"
+-------------------------------------
+Charlie is not kind. Is Charlie kind? The answer is yes.
+
+"I'm not a fan
+-------------------------------------
+Charlie is not unkind. Is Charlie kind? The answer is no.
+
+"I don't know,"
+-------------------------------------
+
+

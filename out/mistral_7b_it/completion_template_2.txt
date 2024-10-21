@@ -1,0 +1,102 @@
+Alice is healthy. Is Alice healthy? The answer is yes. Alice is healthy.
+-------------------------------------
+Alice is unhealthy. Is Alice healthy? The answer is no. Alice is unhealthy.
+-------------------------------------
+Alice is not healthy. Is Alice healthy? The answer is no. Alice is not healthy.
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy? The answer is no. Alice is not healthy. Alice is not
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? The answer is yes. Yes, Bob is healthy.
+-------------------------------------
+Bob is unhealthy. Is Bob healthy? The answer is no. Bob is unhealthy.
+-------------------------------------
+Bob is not healthy. Is Bob healthy? The answer is no. Bob is not healthy.
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy? The answer is not clear.
+
+Here's the reasoning
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy? The answer is yes. Yes, Charlie is healthy.
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy? The answer is no. Charlie is unhealthy.
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy? The answer is no. Charlie is not healthy.
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy? The answer is no, Charlie is not healthy. Charlie is a
+-------------------------------------
+
+
+Alice is happy. Is Alice happy? The answer is yes. Alice is happy.
+
+Alice
+-------------------------------------
+Alice is unhappy. Is Alice happy? The answer is no. Alice is unhappy.
+-------------------------------------
+Alice is not happy. Is Alice happy? The answer is no. Alice is not happy.
+
+Al
+-------------------------------------
+Alice is not unhappy. Is Alice happy? The answer is not straightforward. Alice is not unhappy, but she
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? The answer is yes. Is Bob happy? Yes, Bob is
+-------------------------------------
+Bob is unhappy. Is Bob happy? The answer is no. Bob is unhappy.
+-------------------------------------
+Bob is not happy. Is Bob happy? The answer is no. Bob is not happy.
+-------------------------------------
+Bob is not unhappy. Is Bob happy? The answer is not clear.
+
+Here's the reasoning
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? The answer is yes. Charlie is happy.
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? The answer is no. Charlie is unhappy.
+-------------------------------------
+Charlie is not happy. Is Charlie happy? The answer is no. Charlie is not happy. Charlie is unhappy
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy? The answer is not straightforward. Charlie is a complex character, and
+-------------------------------------
+
+
+Alice is kind. Is Alice kind? The answer is yes.
+
+Alice is a character in
+-------------------------------------
+Alice is unkind. Is Alice kind? The answer is no. Alice is unkind.
+-------------------------------------
+Alice is not kind. Is Alice kind? The answer is no. Alice is not kind. Alice is not
+-------------------------------------
+Alice is not unkind. Is Alice kind? The answer is not known.
+
+The reasoning behind this answer
+-------------------------------------
+
+
+Bob is kind. Is Bob kind? The answer is yes.
+-------------------------------------
+Bob is unkind. Is Bob kind? The answer is no.
+-------------------------------------
+Bob is not kind. Is Bob kind? The answer is no.
+-------------------------------------
+Bob is not unkind. Is Bob kind? The answer is not known.
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind? The answer is yes.
+-------------------------------------
+Charlie is unkind. Is Charlie kind? The answer is no.
+-------------------------------------
+Charlie is not kind. Is Charlie kind? The answer is no. Charlie is not kind.
+-------------------------------------
+Charlie is not unkind. Is Charlie kind? The answer is not straightforward. Charlie is a complex character, and
+-------------------------------------
+
+

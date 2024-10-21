@@ -1,0 +1,51 @@
+Sequence 0 Top3:  höl  Talvez  dusky
+Sequence 1 Top3:  Talvez  lustige  Memiliki
+Sequence 2 Top3:  Lindberg  höl  Talvez
+Sequence 3 Top3:  unve  cushi  disreg
+Sequence 4 Top3:  unve  gliss  cushi
+Sequence 5 Top3:  unve  gliss  inext
+Sequence 6 Top3:  höl  Désolé  Souha
+Sequence 7 Top3:  gliss  peppa  Souha
+Sequence 8 Top3:  höl  Désolé  gliss
+--------------------------------------
+PC 0 Top3:  Strukt  ciga  plafon
+PC 1 Top3: atguigu cheerful charming
+PC 2 Top3: Портал thenia <bos>
+PC 3 Top3: <bos>  skippy DropColumn
+PC 4 Top3:  emphat  affor  depic
+#######################################
+
+Sequence 0 Top3:  höl ,¹  Theod
+Sequence 1 Top3: ,¹ $_[' ."*
+Sequence 2 Top3: ."* ,¹ $_['
+Sequence 3 Top3:  gliss  Righ  snoopy
+Sequence 4 Top3: ,¹  gliss  Huk
+Sequence 5 Top3: ."* ,¹  Theod
+Sequence 6 Top3:  milf ,¹  gliss
+Sequence 7 Top3:  milf  gliss ,¹
+Sequence 8 Top3: ."* ,¹ .¹
+--------------------------------------
+PC 0 Top3:  disambiguazione Tembelea  pama
+PC 1 Top3:  moza HttpDelete {*
+PC 2 Top3: <bos> Tikang  torba
+PC 3 Top3: <bos>  cushi  pstmt
+PC 4 Top3:  spontan  ò  solidar
+#######################################
+
+Sequence 0 Top3:  kraken  snoopy  unve
+Sequence 1 Top3:  kraken  snoopy  aton
+Sequence 2 Top3:  kraken  snoopy  abnorm
+Sequence 3 Top3:  miniatur  disreg  snoopy
+Sequence 4 Top3:  miniatur  snoopy  aton
+Sequence 5 Top3:  snoopy  disreg  miniatur
+Sequence 6 Top3:  Souha  gliss  höl
+Sequence 7 Top3:  milf  gliss  Souha
+Sequence 8 Top3:  höl  gliss  madonna
+--------------------------------------
+PC 0 Top3:  AppBundle  Pál  Lajos
+PC 1 Top3: ."*  karton  meil
+PC 2 Top3:  BIBSYS  PLWABN  IndexPath
+PC 3 Top3: <bos> VYMaps InkWell
+PC 4 Top3: <bos> Autoritní  msec
+#######################################
+

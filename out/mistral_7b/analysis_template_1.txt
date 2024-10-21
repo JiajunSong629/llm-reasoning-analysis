@@ -1,0 +1,51 @@
+Sequence 0 Top3: opposite ERCHANT �
+Sequence 1 Top3: opposite ERCHANT explain
+Sequence 2 Top3: explain why explaining
+Sequence 3 Top3: opposite ERCHANT explanation
+Sequence 4 Top3: opposite opposition contrad
+Sequence 5 Top3: oda opposite ERCHANT
+Sequence 6 Top3: ERCHANT opposite opposition
+Sequence 7 Top3: ERCHANT opposite contr
+Sequence 8 Top3: ERCHANT aque bolds
+--------------------------------------
+PC 0 Top3: iego cio solution
+PC 1 Top3: /******/ angen Floren
+PC 2 Top3: answ ppe ĩ
+PC 3 Top3: answers answer _
+PC 4 Top3: eder eler obviously
+#######################################
+
+Sequence 0 Top3: explain arroll explaining
+Sequence 1 Top3: inton preview none
+Sequence 2 Top3: explain explaining bolds
+Sequence 3 Top3: answer answers choices
+Sequence 4 Top3: answer answers zero
+Sequence 5 Top3: zero lista ila
+Sequence 6 Top3: options reasons choices
+Sequence 7 Top3: reasons floor Civil
+Sequence 8 Top3: reasons explain explaining
+--------------------------------------
+PC 0 Top3: obviously obvious clearly
+PC 1 Top3: bbra arrang vess
+PC 2 Top3: candidate candidates Nob
+PC 3 Top3: \- aya acters
+PC 4 Top3: ==> ⇒ >@
+#######################################
+
+Sequence 0 Top3: explain Reason explanation
+Sequence 1 Top3: úblic /******/ explain
+Sequence 2 Top3: anson aze azi
+Sequence 3 Top3: LIABLE erme reasoning
+Sequence 4 Top3: LIABLE reasoning erme
+Sequence 5 Top3: LIABLE again ERCHANT
+Sequence 6 Top3: ERCHANT erme Diamond
+Sequence 7 Top3: ERCHANT erme dh
+Sequence 8 Top3: ERCHANT Ē anni
+--------------------------------------
+PC 0 Top3: lifting statements overhead
+PC 1 Top3: lever reasoning Khan
+PC 2 Top3: Initialized kre oda
+PC 3 Top3: … …… ket
+PC 4 Top3: UTE Ș ~=
+#######################################
+

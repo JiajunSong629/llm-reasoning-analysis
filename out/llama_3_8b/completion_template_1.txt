@@ -1,0 +1,125 @@
+For the following question, please answer Yes or No. Alice is healthy. Is Alice healthy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Alice is unhealthy. Is Alice healthy? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Alice is not healthy. Is Alice healthy? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Alice is not unhealthy. Is Alice healthy? (a) Yes (b) No
+For
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Bob is healthy. Is Bob healthy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Bob is unhealthy. Is Bob healthy? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Bob is not healthy. Is Bob healthy? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Bob is not unhealthy. Is Bob healthy? A. Yes B. No
+For the following
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Charlie is healthy. Is Charlie healthy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is unhealthy. Is Charlie healthy? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is not healthy. Is Charlie healthy? (a) Yes (b) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is not unhealthy. Is Charlie healthy? (a) Yes (b) No
+For
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Alice is happy. Is Alice happy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Alice is unhappy. Is Alice happy? (Yes/No) 2. For the
+-------------------------------------
+For the following question, please answer Yes or No. Alice is not happy. Is Alice happy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Alice is not unhappy. Is Alice happy? (A) Yes (B) No
+For
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Bob is happy. Is Bob happy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Bob is unhappy. Is Bob happy? (a) Yes (b) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Bob is not happy. Is Bob happy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Bob is not unhappy. Is Bob happy? (A) Yes (B) No
+For
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Charlie is happy. Is Charlie happy? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is unhappy. Is Charlie happy? (A) Yes (B) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is not happy. Is Charlie happy? (a) Yes (b) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is not unhappy. Is Charlie happy? (a) Yes (b) No
+For
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Alice is kind. Is Alice kind? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Alice is unkind. Is Alice kind? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Alice is not kind. Is Alice kind? (a) Yes (b) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Alice is not unkind. Is Alice kind? (a) Yes (b) No
+For
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Bob is kind. Is Bob kind? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Bob is unkind. Is Bob kind? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Bob is not kind. Is Bob kind? (a) Yes (b) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Bob is not unkind. Is Bob kind? A. Yes B. No
+For the following
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Charlie is kind. Is Charlie kind? Yes No
+For the following question, please answer
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is unkind. Is Charlie kind? A. Yes B. No
+For the following
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is not kind. Is Charlie kind? (a) Yes (b) No
+For
+-------------------------------------
+For the following question, please answer Yes or No. Charlie is not unkind. Is Charlie kind? A. Yes B. No
+For the following
+-------------------------------------
+
+

@@ -1,0 +1,176 @@
+Alice is healthy. Is Alice healthy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Alice is unhealthy. Is Alice healthy? The answer is no.
+
+Here's why:
+
+*
+-------------------------------------
+Alice is not healthy. Is Alice healthy? The answer is **no**.
+
+Here's why:
+
+
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy? The answer is:
+
+**Yes, but we need more information
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Bob is unhealthy. Is Bob healthy? The answer is no.
+
+Here's why:
+
+*
+-------------------------------------
+Bob is not healthy. Is Bob healthy? The answer is **no**.
+
+This is a classic example of
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy? The answer is **yes**.
+
+Here's why:
+
+
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy? The answer is no.
+
+Here's why:
+
+*
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy? The answer is **no**.
+
+Here's why:
+
+
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy? The answer is:
+
+**Yes, Charlie is healthy.**
+
+
+-------------------------------------
+
+
+Alice is happy. Is Alice happy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Alice is unhappy. Is Alice happy? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Alice is not happy. Is Alice happy? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Alice is not unhappy. Is Alice happy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Bob is unhappy. Is Bob happy? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Bob is not happy. Is Bob happy? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Bob is not unhappy. Is Bob happy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Charlie is not happy. Is Charlie happy? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+
+
+Alice is kind. Is Alice kind? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Alice is unkind. Is Alice kind? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Alice is not kind. Is Alice kind? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Alice is not unkind. Is Alice kind? The answer is yes, but it's not a simple yes
+-------------------------------------
+
+
+Bob is kind. Is Bob kind? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Bob is unkind. Is Bob kind? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Bob is not kind. Is Bob kind? The answer is no.
+
+This is a classic example of a
+-------------------------------------
+Bob is not unkind. Is Bob kind? The answer is yes, but it's a bit more nuanced
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind? The answer is yes.
+
+This is a classic example of a
+-------------------------------------
+Charlie is unkind. Is Charlie kind? The answer is no.
+
+Here's why:
+
+*
+-------------------------------------
+Charlie is not kind. Is Charlie kind? The answer is no.
+
+This is a simple example of a
+-------------------------------------
+Charlie is not unkind. Is Charlie kind? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+
+

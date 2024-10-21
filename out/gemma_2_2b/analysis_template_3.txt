@@ -1,0 +1,51 @@
+Sequence 0 Top3: Idk ISupport  Lasting
+Sequence 1 Top3:  op ([- intu
+Sequence 2 Top3: AutoScale  propOrder Idk
+Sequence 3 Top3: AutoScale extAlignment  Audiodateien
+Sequence 4 Top3:  propOrder )');  Lie
+Sequence 5 Top3:  propOrder  bParam paramMap
+Sequence 6 Top3: MIDDLEWARE setupUi AutoScale
+Sequence 7 Top3: AutoScale MLLoader  '/';
+Sequence 8 Top3: AutoScale  للمعارف  '/';
+--------------------------------------
+PC 0 Top3: ENODEV  begge DebuggerStep
+PC 1 Top3:  or  usually  solito
+PC 2 Top3:  réponse  antwoord  replied
+PC 3 Top3:  correct  correctly Correct
+PC 4 Top3:  yes  Yes  YES
+#######################################
+
+Sequence 0 Top3: ISupport  reply  AssemblyProduct
+Sequence 1 Top3:  AssemblyProduct ValueGeneration  Roskov
+Sequence 2 Top3: IntoConstraints ValueGeneration  BitmapFactory
+Sequence 3 Top3:  surla ISupport  replied
+Sequence 4 Top3:  :"); Opposite MIDDLEWARE
+Sequence 5 Top3:  bParam  BitmapFactory  explains
+Sequence 6 Top3:  surla setupUi  replied
+Sequence 7 Top3: setupUi AutoScale  surla
+Sequence 8 Top3: AutoScale NSIndexPath  springfox
+--------------------------------------
+PC 0 Top3:  both どちらも  begge
+PC 1 Top3: AndEndTag  enfans  algodão
+PC 2 Top3:  correct  correctes CORRECT
+PC 3 Top3: 一小  écrit inafter
+PC 4 Top3:  suitable  correct  good
+#######################################
+
+Sequence 0 Top3: ISupport enoord PerformLayout
+Sequence 1 Top3: enoord ISupport favorable
+Sequence 2 Top3: IntoConstraints ValueGeneration  AssemblyCompany
+Sequence 3 Top3:  متعلقه  ostavi  argu
+Sequence 4 Top3:  ")");  cherchés tagHelperRunner
+Sequence 5 Top3:  ")");  propOrder  folgender
+Sequence 6 Top3:  surla Hentet AutoScale
+Sequence 7 Top3: లాలు  getLogin tagHelperRunner
+Sequence 8 Top3:  ListTile  surla  '-';
+--------------------------------------
+PC 0 Top3: どちらも  begge  both
+PC 1 Top3: Réponse  risposta responses
+PC 2 Top3: extAlignment cester istre
+PC 3 Top3:  unduly Rüyada  diarrhoea
+PC 4 Top3:  correct  correctly Correct
+#######################################
+

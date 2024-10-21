@@ -1,0 +1,51 @@
+Sequence 0 Top3:  prescribed  dosage  beforehand
+Sequence 1 Top3: onent  habit  peacefully
+Sequence 2 Top3: TAIN  metabolism WE
+Sequence 3 Top3: ppo MG ˈ
+Sequence 4 Top3: itely PI oz
+Sequence 5 Top3: APH aign RM
+Sequence 6 Top3:  Afric  Greenwood ��
+Sequence 7 Top3:  Afric  Greenwood  Wiley
+Sequence 8 Top3:  Afric  Greenwood ��
+--------------------------------------
+PC 0 Top3:  Afric  Greenwood  Palest
+PC 1 Top3: argon Ball swick
+PC 2 Top3:  dealer  dealers  districts
+PC 3 Top3: ciplinary  Amph escal
+PC 4 Top3: ibly lee Clar
+#######################################
+
+Sequence 0 Top3: onse udging :[
+Sequence 1 Top3: onse udging andum
+Sequence 2 Top3: onse udging :[
+Sequence 3 Top3: onse ê iom
+Sequence 4 Top3: onse Els andum
+Sequence 5 Top3: Els onse ê
+Sequence 6 Top3:  Afric  Greenwood ��
+Sequence 7 Top3:  Afric  Greenwood  Officer
+Sequence 8 Top3:  Afric  Greenwood  Wiley
+--------------------------------------
+PC 0 Top3: �� llah  Kimberly
+PC 1 Top3:  patented  inventions  educ
+PC 2 Top3:  Pastebin against �
+PC 3 Top3: lished olulu  Conclusion
+PC 4 Top3: croft  fav alys
+#######################################
+
+Sequence 0 Top3: onse udging andum
+Sequence 1 Top3: onse udging andum
+Sequence 2 Top3: onse udging :[
+Sequence 3 Top3: onse ê iom
+Sequence 4 Top3: onse Els andum
+Sequence 5 Top3: onse Els ê
+Sequence 6 Top3: andum  Hindi onse
+Sequence 7 Top3:  Hindi onse  Antar
+Sequence 8 Top3: onse  Hindi Els
+--------------------------------------
+PC 0 Top3:  Haf  Afric  kissed
+PC 1 Top3: lished ��  Canaver
+PC 2 Top3:  skew onew }}}
+PC 3 Top3:  fav jab )=(
+PC 4 Top3:  foreseeable  Hazard ially
+#######################################
+

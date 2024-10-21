@@ -1,0 +1,198 @@
+Alice is healthy. Is Alice healthy? Yes, she is. She is healthy. She
+-------------------------------------
+Alice is unhealthy. Is Alice healthy?
+
+Alice is unhealthy. Is Alice healthy?
+
+
+-------------------------------------
+Alice is not healthy. Is Alice healthy?
+
+Alice is not healthy. Is Alice healthy?
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy?
+
+Alice is not unhealthy. Is Alice healthy?
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? Bob is healthy. Is Bob healthy? Bob is
+-------------------------------------
+Bob is unhealthy. Is Bob healthy?
+
+Bob is unhealthy. Is Bob healthy?
+
+
+-------------------------------------
+Bob is not healthy. Is Bob healthy?
+
+[User 0001]
+
+
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy?
+
+[User 0001]
+
+
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy?
+
+The question is a simple one, but the
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy?
+
+Charlie is unhealthy. Is Charlie healthy?
+
+
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy?
+
+Charlie is not healthy. Is Charlie healthy?
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy?
+
+Charlie is not unhealthy. Is Charlie healthy?
+-------------------------------------
+
+
+Alice is happy. Is Alice happy?
+
+Alice is happy. Is Alice happy?
+
+
+-------------------------------------
+Alice is unhappy. Is Alice happy?
+
+Alice is unhappy. Is Alice happy?
+
+
+-------------------------------------
+Alice is not happy. Is Alice happy?
+
+Alice is not happy. Is Alice happy?
+-------------------------------------
+Alice is not unhappy. Is Alice happy?
+
+Alice is not unhappy. Is Alice happy?
+-------------------------------------
+
+
+Bob is happy. Is Bob happy?
+
+Bob is happy. Is Bob happy?
+
+
+-------------------------------------
+Bob is unhappy. Is Bob happy?
+
+Bob is unhappy. Is Bob happy?
+
+
+-------------------------------------
+Bob is not happy. Is Bob happy?
+
+Bob is not happy. Is Bob happy?
+-------------------------------------
+Bob is not unhappy. Is Bob happy?
+
+[User 0001]
+
+
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy?
+
+Charlie is happy. Is Charlie happy?
+
+
+-------------------------------------
+Charlie is unhappy. Is Charlie happy?
+
+Charlie is unhappy. Is Charlie happy?
+
+
+-------------------------------------
+Charlie is not happy. Is Charlie happy?
+
+Charlie is not happy. Is Charlie happy?
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy?
+
+Charlie is not unhappy. Is Charlie happy?
+-------------------------------------
+
+
+Alice is kind. Is Alice kind?
+
+Alice is kind. Is Alice kind?
+
+
+-------------------------------------
+Alice is unkind. Is Alice kind?
+
+Alice is unkind. Is Alice kind?
+
+
+-------------------------------------
+Alice is not kind. Is Alice kind?
+
+Alice is not kind. Is Alice kind?
+-------------------------------------
+Alice is not unkind. Is Alice kind?
+
+Alice is not unkind. Is Alice kind?
+-------------------------------------
+
+
+Bob is kind. Is Bob kind?
+
+Bob is kind. Is Bob kind?
+
+
+-------------------------------------
+Bob is unkind. Is Bob kind?
+
+[User 0001]
+
+
+-------------------------------------
+Bob is not kind. Is Bob kind?
+
+[User 0001]
+
+
+-------------------------------------
+Bob is not unkind. Is Bob kind?
+
+[User 0001]
+
+
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind?
+
+Charlie is kind.
+
+Charlie is kind.
+-------------------------------------
+Charlie is unkind. Is Charlie kind?
+
+Charlie is unkind. Is Charlie kind?
+
+
+-------------------------------------
+Charlie is not kind. Is Charlie kind?
+
+Charlie is not kind. Is Charlie kind?
+-------------------------------------
+Charlie is not unkind. Is Charlie kind?
+
+Charlie is not unkind. Is Charlie kind?
+-------------------------------------
+
+

@@ -1,0 +1,220 @@
+Alice is healthy. Is Alice healthy?
+
+The answer is: Yes.
+
+The text
+-------------------------------------
+Alice is unhealthy. Is Alice healthy?
+
+The answer is no.
+
+Alice is unhealthy
+-------------------------------------
+Alice is not healthy. Is Alice healthy?
+
+The answer is no.
+
+The text states
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy?
+
+The answer is yes.
+
+Alice is not
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy?
+
+The answer is yes.
+
+The text states
+-------------------------------------
+Bob is unhealthy. Is Bob healthy?
+
+The answer is no.
+
+Bob is unhealthy
+-------------------------------------
+Bob is not healthy. Is Bob healthy?
+
+The answer is no.
+
+The text states
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy?
+
+The answer is: I do not have enough
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy?
+
+The answer is: Yes
+
+The text is
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy?
+
+The answer is no.
+
+Charlie is unhealthy
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy?
+
+The answer to this question is no. The
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy?
+
+The answer is yes.
+
+Charlie is not
+-------------------------------------
+
+
+Alice is happy. Is Alice happy?
+
+The answer is yes.
+
+The text states
+-------------------------------------
+Alice is unhappy. Is Alice happy?
+
+The answer is no.
+
+Alice is unhappy
+-------------------------------------
+Alice is not happy. Is Alice happy?
+
+The answer to this question is no. The
+-------------------------------------
+Alice is not unhappy. Is Alice happy?
+
+The answer is yes.
+
+Alice is not
+-------------------------------------
+
+
+Bob is happy. Is Bob happy?
+
+The answer is yes.
+
+The text states
+-------------------------------------
+Bob is unhappy. Is Bob happy?
+
+The answer is no.
+
+Bob is unhappy
+-------------------------------------
+Bob is not happy. Is Bob happy?
+
+The answer is no.
+
+Bob is not
+-------------------------------------
+Bob is not unhappy. Is Bob happy?
+
+The answer is neutral.
+
+Bob is not
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy?
+
+The answer is yes.
+
+The text states
+-------------------------------------
+Charlie is unhappy. Is Charlie happy?
+
+The answer is no.
+
+Charlie is unhappy
+-------------------------------------
+Charlie is not happy. Is Charlie happy?
+
+The answer is no.
+
+The text states
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy?
+
+The answer is neutral.
+
+The text does
+-------------------------------------
+
+
+Alice is kind. Is Alice kind?
+
+The answer is: Yes.
+
+The text
+-------------------------------------
+Alice is unkind. Is Alice kind?
+
+The text does not provide information about Alice'
+-------------------------------------
+Alice is not kind. Is Alice kind?
+
+The answer is no.
+
+Alice is not
+-------------------------------------
+Alice is not unkind. Is Alice kind?
+
+The text does not provide information about Alice'
+-------------------------------------
+
+
+Bob is kind. Is Bob kind?
+
+The answer is yes.
+
+The text states
+-------------------------------------
+Bob is unkind. Is Bob kind?
+
+The answer is no.
+
+Bob is unkind
+-------------------------------------
+Bob is not kind. Is Bob kind?
+
+The answer is no.
+
+Bob is not
+-------------------------------------
+Bob is not unkind. Is Bob kind?
+
+The answer to this question is "yes."
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind?
+
+The answer is yes.
+
+The text describes
+-------------------------------------
+Charlie is unkind. Is Charlie kind?
+
+The answer is no.
+
+Charlie is unkind
+-------------------------------------
+Charlie is not kind. Is Charlie kind?
+
+The answer to this question is no. The
+-------------------------------------
+Charlie is not unkind. Is Charlie kind?
+
+The answer is yes.
+
+Charlie is kind
+-------------------------------------
+
+

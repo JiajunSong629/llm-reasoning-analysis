@@ -1,0 +1,51 @@
+Sequence 0 Top3:  complex  complicated  Complexity
+Sequence 1 Top3:  complex  complicated complex
+Sequence 2 Top3:  complex complex  complicated
+Sequence 3 Top3:  neither neither  dependent
+Sequence 4 Top3:  dependent  depend  depends
+Sequence 5 Top3:  neither neither  complex
+Sequence 6 Top3:  mixed  complicated  complex
+Sequence 7 Top3:  complex  complicated complex
+Sequence 8 Top3:  mixed  mélang complex
+--------------------------------------
+PC 0 Top3: LookAnd  betweenstory ffindor
+PC 1 Top3:  referrerpolicy kheim  simpl
+PC 2 Top3: CloseOperation ViewFeatures IsContent
+PC 3 Top3:  незавершена 󠁢 )|^{
+PC 4 Top3:  uncertain  dependent html
+#######################################
+
+Sequence 0 Top3:  easy  easier  simple
+Sequence 1 Top3:  onBackPressed 不是很 mnar
+Sequence 2 Top3:  complex complex  onBackPressed
+Sequence 3 Top3: jspx stdafx :"-"`
+Sequence 4 Top3: jspx stateProvider stdafx
+Sequence 5 Top3: jspx stateProvider databind
+Sequence 6 Top3:  debatable  debated complex
+Sequence 7 Top3:  debatable  debated  mixed
+Sequence 8 Top3:  debatable  debated  nuanced
+--------------------------------------
+PC 0 Top3:  yes  YES  Yes
+PC 1 Top3: asable 誰でも .
+PC 2 Top3:  <<<<<<<<<<<<<< ConstraintMaker  easy
+PC 3 Top3:  yes uxxxx yes
+PC 4 Top3: CloseOperation  entrambi <bos>
+#######################################
+
+Sequence 0 Top3:  difficult  complex  easier
+Sequence 1 Top3:  complex complex  Complex
+Sequence 2 Top3:  complex complex  complicated
+Sequence 3 Top3:  neither neither هما
+Sequence 4 Top3:  neither neither  ilgili
+Sequence 5 Top3:  neither neither  Neither
+Sequence 6 Top3:  mixed  far  very
+Sequence 7 Top3:  mixed  complex  complicated
+Sequence 8 Top3:  far  mixed  equally
+--------------------------------------
+PC 0 Top3:  neither  betweenstory どちらも
+PC 1 Top3: both yes  both
+PC 2 Top3:  AssemblyVersion MigrationBuilder Easy
+PC 3 Top3: ]--;  contradiction  andererseits
+PC 4 Top3: rungsseite  للاسماء __*/
+#######################################
+

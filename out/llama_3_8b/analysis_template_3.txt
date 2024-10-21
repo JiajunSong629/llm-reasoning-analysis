@@ -1,0 +1,51 @@
+Sequence 0 Top3:  wrong GRE ,false
+Sequence 1 Top3:  false  Ant  Nope
+Sequence 2 Top3:  wrong  Ant GRE
+Sequence 3 Top3: ยก  zer  Funeral
+Sequence 4 Top3:  organic  opposite Zero
+Sequence 5 Top3:  po  Funeral INC
+Sequence 6 Top3:  opposite baugh :not
+Sequence 7 Top3:  opposite  immediate  alternative
+Sequence 8 Top3:  opposite  none  negative
+--------------------------------------
+PC 0 Top3:  Sơn opsis urma
+PC 1 Top3: urette stí ทรง
+PC 2 Top3:  WebGL  prive versed
+PC 3 Top3: SCALE scale itur
+PC 4 Top3: andon agle ihar
+#######################################
+
+Sequence 0 Top3:  Nope  false ,false
+Sequence 1 Top3:  false  Nope Zero
+Sequence 2 Top3: Zero  zero  Nope
+Sequence 3 Top3: 负  Nope  negative
+Sequence 4 Top3: Zero  zero rick
+Sequence 5 Top3: Zero  zero 负
+Sequence 6 Top3:  opposite  false (False
+Sequence 7 Top3:  opposite  false  FALSE
+Sequence 8 Top3:  false  Nope  FALSE
+--------------------------------------
+PC 0 Top3: � CursorPosition �
+PC 1 Top3: یین  Misc  Mutual
+PC 2 Top3: 찬  tavs ham
+PC 3 Top3: уп isse �
+PC 4 Top3: yla stras vos
+#######################################
+
+Sequence 0 Top3: ví  instead _HELPER
+Sequence 1 Top3: уж ví  NA
+Sequence 2 Top3: 295 ví  NA
+Sequence 3 Top3: /grpc _HELPER adaki
+Sequence 4 Top3: /grpc уж  instead
+Sequence 5 Top3: /grpc chodu  NA
+Sequence 6 Top3: nameof chodu zí
+Sequence 7 Top3: zí nameof chodu
+Sequence 8 Top3: nameof zí chodu
+--------------------------------------
+PC 0 Top3: ESIS oleans лот
+PC 1 Top3: аксим šov τεύ
+PC 2 Top3: orate versed ogn
+PC 3 Top3: iesel asket нка
+PC 4 Top3: enko _nth  turist
+#######################################
+

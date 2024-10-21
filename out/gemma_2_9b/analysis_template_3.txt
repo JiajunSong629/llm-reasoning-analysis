@@ -1,0 +1,51 @@
+Sequence 0 Top3:  nonUne  XCTest UrlResolution
+Sequence 1 Top3:  nonUne  endblock  vPvB
+Sequence 2 Top3:  nonUne  GenerationType UrlResolution
+Sequence 3 Top3: UrlResolution  endblock  otomatig
+Sequence 4 Top3:  endblock  Luce Caratteristiche
+Sequence 5 Top3: UrlResolution  للاسماء  nonUne
+Sequence 6 Top3:  XCTest  nonUne  समीक्षाओं
+Sequence 7 Top3:  XCTest  nonUne  vPvB
+Sequence 8 Top3: contentLoaded  XCTest UrlResolution
+--------------------------------------
+PC 0 Top3:  kysy  ilman  beroep
+PC 1 Top3:  tartalomajánló BASEPATH  lenker
+PC 2 Top3:  snippetHide  يتيمه GEBURTSDATUM
+PC 3 Top3:  vocals  tujuan werkstatt
+PC 4 Top3: ณ์ әрмәләр  Turquía
+#######################################
+
+Sequence 0 Top3:  nonUne AsStream lakes
+Sequence 1 Top3:  nonUne  thị scalatest
+Sequence 2 Top3:  nonUne  surla scalatest
+Sequence 3 Top3:  thị  Glucose  proxy
+Sequence 4 Top3: pushFollow  proxy  thị
+Sequence 5 Top3: UrlResolution  proxy PerformLayout
+Sequence 6 Top3:  nonUne AsStream Fiche
+Sequence 7 Top3:  thị  nonUne  Mérimée
+Sequence 8 Top3:  LiveData  nonUne  XCTest
+--------------------------------------
+PC 0 Top3:  arşivlendi  kysy  ilman
+PC 1 Top3:  tartalomajánló Rüyada  lenker
+PC 2 Top3: expandindo GEBURTSDATUM majánló
+PC 3 Top3: ⓧ Good https
+PC 4 Top3: <bos>  surla  nemico
+#######################################
+
+Sequence 0 Top3:  nonUne  كومونز migrationBuilder
+Sequence 1 Top3: RegressionTest  nonUne migrationBuilder
+Sequence 2 Top3:  surla  كومونز  indígen
+Sequence 3 Top3: LookAnd  nonUne  ease
+Sequence 4 Top3: RegressionTest  Mérimée  endblock
+Sequence 5 Top3:  ModelExpression RegressionTest LookAnd
+Sequence 6 Top3: LookAnd  كومونز  nonUne
+Sequence 7 Top3: RegressionTest LookAnd  nonUne
+Sequence 8 Top3: LookAnd RegressionTest contentLoaded
+--------------------------------------
+PC 0 Top3: SourceChecksum  håll iyor
+PC 1 Top3: OGND  CreateTagHelper RUnlock
+PC 2 Top3: ross .*")]  potentially
+PC 3 Top3:  BytesLike ConstraintMaker ymce
+PC 4 Top3:  third катери  private
+#######################################
+

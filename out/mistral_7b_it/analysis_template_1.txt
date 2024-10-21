@@ -1,0 +1,52 @@
+Sequence 0 Top3: opposite NOT contrad
+Sequence 1 Top3: opposite NOT minority
+Sequence 2 Top3: opposite NOT False
+Sequence 3 Top3: NOT absent opposite
+Sequence 4 Top3: NOT absent False
+Sequence 5 Top3: NOT False absent
+Sequence 6 Top3: opposite removeClass contrad
+Sequence 7 Top3: opposite removeClass contrad
+Sequence 8 Top3: opposite removeClass FALSE
+--------------------------------------
+PC 0 Top3: iest Rap Added
+PC 1 Top3: uter rix acknow
+PC 2 Top3: nog differential CIA
+PC 3 Top3: BC ბ Бер
+PC 4 Top3: riend iejsc gorith
+#######################################
+
+Sequence 0 Top3: false False minority
+Sequence 1 Top3: False false fals
+Sequence 2 Top3: False fals false
+Sequence 3 Top3: NOT false minority
+Sequence 4 Top3: false False NOT
+Sequence 5 Top3: false NOT False
+Sequence 6 Top3: opposite contrad false
+Sequence 7 Top3: false False contrad
+Sequence 8 Top3: false False opposite
+--------------------------------------
+PC 0 Top3: jan /******/ owi
+PC 1 Top3: éal ilia ilib
+PC 2 Top3: Guerra � Familie
+PC 3 Top3: 
+ iera ym
+PC 4 Top3: efore Roche riend
+#######################################
+
+Sequence 0 Top3: arto achen hood
+Sequence 1 Top3: arto achen therefore
+Sequence 2 Top3: arto CLUDING hood
+Sequence 3 Top3: absent absence arto
+Sequence 4 Top3: absent absence therefore
+Sequence 5 Top3: again Again opposition
+Sequence 6 Top3: aru antine arto
+Sequence 7 Top3: therefore aru arto
+Sequence 8 Top3: edi antine therefore
+--------------------------------------
+PC 0 Top3: Iv chant iff
+PC 1 Top3: anza ulum pected
+PC 2 Top3: indirect nomin FT
+PC 3 Top3: ĩ aval anas
+PC 4 Top3: /******/ dorf зу
+#######################################
+

@@ -1,0 +1,51 @@
+Sequence 0 Top3: false opposite False
+Sequence 1 Top3: false opposite false
+Sequence 2 Top3: false FALSE False
+Sequence 3 Top3: false False FALSE
+Sequence 4 Top3: FALSE opposite false
+Sequence 5 Top3: FALSE false opposite
+Sequence 6 Top3: false false opposite
+Sequence 7 Top3: false false False
+Sequence 8 Top3: false false FALSE
+--------------------------------------
+PC 0 Top3: repeat repeat these
+PC 1 Top3: yes zn loyd
+PC 2 Top3: opposite unm contrary
+PC 3 Top3: Equal Both sin
+PC 4 Top3: attan erten tta
+#######################################
+
+Sequence 0 Top3: false false None
+Sequence 1 Top3: false NOT false
+Sequence 2 Top3: false NOT nor
+Sequence 3 Top3: false NOT None
+Sequence 4 Top3: false FALSE false
+Sequence 5 Top3: NONE neither NOT
+Sequence 6 Top3: None false NOT
+Sequence 7 Top3: false false None
+Sequence 8 Top3: NONE None NOT
+--------------------------------------
+PC 0 Top3: ermo óg hunger
+PC 1 Top3: obviously Yes yes
+PC 2 Top3: unm contrary opposite
+PC 3 Top3: itt Carr depends
+PC 4 Top3: ANY iza PARTICULAR
+#######################################
+
+Sequence 0 Top3: unknown unknown neither
+Sequence 1 Top3: unknown unknown absent
+Sequence 2 Top3: unknown unknown idan
+Sequence 3 Top3: neither unknown unknown
+Sequence 4 Top3: unknown unknown neither
+Sequence 5 Top3: perhaps equally too
+Sequence 6 Top3: unknown perhaps partly
+Sequence 7 Top3: unknown unknown lacking
+Sequence 8 Top3: lacking unknown perhaps
+--------------------------------------
+PC 0 Top3: /******/ éri too
+PC 1 Top3: osta lifestyle yes
+PC 2 Top3: unm uncertain refr
+PC 3 Top3: itt theoret œ
+PC 4 Top3: neither Neither bound
+#######################################
+

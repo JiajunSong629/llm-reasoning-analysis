@@ -1,0 +1,90 @@
+The teacher asks 'Alice is healthy. Is Alice healthy?'. The student answers 'Yes'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is unhealthy. Is Alice healthy?'. The student answers 'No'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is not healthy. Is Alice healthy?'. The student answers 'No'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is not unhealthy. Is Alice healthy?'. The student answers 'Yes'. The teacher asks 'Alice is
+-------------------------------------
+
+
+The teacher asks 'Bob is healthy. Is Bob healthy?'. The student answers 'Yes'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is unhealthy. Is Bob healthy?'. The student answers 'No'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is not healthy. Is Bob healthy?'. The student answers 'No'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is not unhealthy. Is Bob healthy?'. The student answers 'Yes'. The teacher asks 'Bob is
+-------------------------------------
+
+
+The teacher asks 'Charlie is healthy. Is Charlie healthy?'. The student answers 'Yes'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is unhealthy. Is Charlie healthy?'. The student answers 'No'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is not healthy. Is Charlie healthy?'. The student answers 'No'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is not unhealthy. Is Charlie healthy?'. The student answers 'Yes'. The teacher asks 'Charlie
+-------------------------------------
+
+
+The teacher asks 'Alice is happy. Is Alice happy?'. The student answers 'Yes'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is unhappy. Is Alice happy?'. The student answers 'No'. The teacher asks 'Is Alice unhappy
+-------------------------------------
+The teacher asks 'Alice is not happy. Is Alice happy?'. The student answers 'No'. The teacher asks 'Is Alice happy
+-------------------------------------
+The teacher asks 'Alice is not unhappy. Is Alice happy?'. The student answers 'Yes'. The teacher asks 'Alice is
+-------------------------------------
+
+
+The teacher asks 'Bob is happy. Is Bob happy?'. The student answers 'Yes'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is unhappy. Is Bob happy?'. The student answers 'No'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is not happy. Is Bob happy?'. The student answers 'No'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is not unhappy. Is Bob happy?'. The student answers 'Yes'. The teacher asks 'Bob is
+-------------------------------------
+
+
+The teacher asks 'Charlie is happy. Is Charlie happy?'. The student answers 'Yes'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is unhappy. Is Charlie happy?'. The student answers 'No'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is not happy. Is Charlie happy?'. The student answers 'No'. The teacher asks 'Why is Charlie
+-------------------------------------
+The teacher asks 'Charlie is not unhappy. Is Charlie happy?'. The student answers 'Yes'. The teacher asks 'Charlie
+-------------------------------------
+
+
+The teacher asks 'Alice is kind. Is Alice kind?'. The student answers 'Yes'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is unkind. Is Alice kind?'. The student answers 'No'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is not kind. Is Alice kind?'. The student answers 'No'. The teacher asks 'Alice is
+-------------------------------------
+The teacher asks 'Alice is not unkind. Is Alice kind?'. The student answers 'Yes'. The teacher asks 'Alice is
+-------------------------------------
+
+
+The teacher asks 'Bob is kind. Is Bob kind?'. The student answers 'Yes'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is unkind. Is Bob kind?'. The student answers 'No'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is not kind. Is Bob kind?'. The student answers 'No'. The teacher asks 'Bob is
+-------------------------------------
+The teacher asks 'Bob is not unkind. Is Bob kind?'. The student answers 'Yes'. The teacher asks 'Bob is
+-------------------------------------
+
+
+The teacher asks 'Charlie is kind. Is Charlie kind?'. The student answers 'Yes'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is unkind. Is Charlie kind?'. The student answers 'No'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is not kind. Is Charlie kind?'. The student answers 'No'. The teacher asks 'Charlie
+-------------------------------------
+The teacher asks 'Charlie is not unkind. Is Charlie kind?'. The student answers 'Yes'. The teacher asks 'Charlie
+-------------------------------------
+
+

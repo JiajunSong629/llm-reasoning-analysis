@@ -1,0 +1,53 @@
+Sequence 0 Top3:  neither neither  Neither
+Sequence 1 Top3:  neither neither  Neither
+Sequence 2 Top3:  neither neither ScopeManager
+Sequence 3 Top3: neither  neither  opposite
+Sequence 4 Top3: neither  neither  opposite
+Sequence 5 Top3: neither  neither  opposite
+Sequence 6 Top3:  neither neither  opposite
+Sequence 7 Top3: neither  neither  Neither
+Sequence 8 Top3: neither  neither  opposite
+--------------------------------------
+PC 0 Top3: 脚注の使い方  ویکی‌پدیا GEBURTSDATUM
+PC 1 Top3: 出版年 mergeFrom  InputDecoration
+PC 2 Top3:  likely  unknown  not
+PC 3 Top3:  both  Both Both
+PC 4 Top3:  stesse both  xách
+#######################################
+
+Sequence 0 Top3:  neither neither Neither
+Sequence 1 Top3:  neither neither Neither
+Sequence 2 Top3:  neither neither  Neither
+Sequence 3 Top3:  neither neither  unavailable
+Sequence 4 Top3:  neither neither  unavailable
+Sequence 5 Top3:  neither  unavailable neither
+Sequence 6 Top3:  neither neither  unavailable
+Sequence 7 Top3:  neither neither  Neither
+Sequence 8 Top3:  neither neither  Neither
+--------------------------------------
+PC 0 Top3:  yes </tr> GEBURTSDATUM
+PC 1 Top3:  twain  насељу jadinya
+PC 2 Top3: '}, zzleHttp iotensin
+PC 3 Top3:    
+
+ correct
+PC 4 Top3: ThroughAttribute èlement ніципа
+#######################################
+
+Sequence 0 Top3:  neither  mixed  ambiguous
+Sequence 1 Top3:  mixed  unavailable  विश्वसनीयता
+Sequence 2 Top3:  mixed  ambiguous mixed
+Sequence 3 Top3: StoryboardSegue  either either
+Sequence 4 Top3: StoryboardSegue  nahilalakip  disambiguazione
+Sequence 5 Top3: StoryboardSegue  nahilalakip either
+Sequence 6 Top3:  complex  complicated  mixed
+Sequence 7 Top3:  complex  mixed  complicated
+Sequence 8 Top3:  complex  complicated  mixed
+--------------------------------------
+PC 0 Top3:  yes  Yes Yes
+PC 1 Top3:  snad setVerticalGroup ArgsConstructor
+PC 2 Top3:  either  unknown either
+PC 3 Top3:  couldn  simply  "
+PC 4 Top3:  obvious  InputDecoration 出版年
+#######################################
+

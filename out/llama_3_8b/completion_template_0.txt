@@ -1,0 +1,93 @@
+Alice is healthy. Is Alice healthy? Yes, Alice is healthy. Is Alice healthy?
+-------------------------------------
+Alice is unhealthy. Is Alice healthy? No.
+Alice is healthy. Is Alice unhealthy?
+-------------------------------------
+Alice is not healthy. Is Alice healthy? No, Alice is not healthy. Is Alice healthy
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy? No. Is Alice unhealthy? No. Is Alice
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? Yes, Bob is healthy.
+Bob is healthy.
+-------------------------------------
+Bob is unhealthy. Is Bob healthy? No.
+Bob is healthy. Is Bob unhealthy?
+-------------------------------------
+Bob is not healthy. Is Bob healthy? No, Bob is not healthy. Is Bob healthy
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy? No. Is Bob unhealthy? No. Is Bob
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy? Yes, Charlie is healthy. Is Charlie healthy?
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy? No, Charlie is not healthy. Charlie is unhealthy
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy? No, Charlie is not healthy. Is Charlie healthy
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy? No, Charlie is not healthy. Is Charlie sick
+-------------------------------------
+
+
+Alice is happy. Is Alice happy? Yes, Alice is happy. Is Alice happy?
+-------------------------------------
+Alice is unhappy. Is Alice happy? No, Alice is unhappy. Is Alice happy?
+-------------------------------------
+Alice is not happy. Is Alice happy? No, Alice is not happy. Is Alice happy
+-------------------------------------
+Alice is not unhappy. Is Alice happy? No, she is not happy. Is Alice unhappy
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? Yes, Bob is happy. Is Bob happy?
+-------------------------------------
+Bob is unhappy. Is Bob happy? No. Is Bob unhappy? Yes. Is Bob
+-------------------------------------
+Bob is not happy. Is Bob happy? No. Is Bob happy? No. Is Bob
+-------------------------------------
+Bob is not unhappy. Is Bob happy? No. Is Bob unhappy? No. Is Bob
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? Yes, Charlie is happy. Is Charlie happy?
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? No, Charlie is not happy. Is Charlie happy
+-------------------------------------
+Charlie is not happy. Is Charlie happy? No, Charlie is not happy. Is Charlie happy
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy? No, Charlie is not happy. Is Charlie unhappy
+-------------------------------------
+
+
+Alice is kind. Is Alice kind? Yes, Alice is kind. Is Alice kind?
+-------------------------------------
+Alice is unkind. Is Alice kind? No, she is not. Is Alice kind?
+-------------------------------------
+Alice is not kind. Is Alice kind? No, she is not kind. Alice is not
+-------------------------------------
+Alice is not unkind. Is Alice kind? No, she is not kind. Is Alice un
+-------------------------------------
+
+
+Bob is kind. Is Bob kind? Yes, Bob is kind. Is Bob kind?
+-------------------------------------
+Bob is unkind. Is Bob kind? No. Bob is unkind. Is Bob un
+-------------------------------------
+Bob is not kind. Is Bob kind? No, Bob is not kind. Is Bob kind
+-------------------------------------
+Bob is not unkind. Is Bob kind? No, Bob is not kind. Is Bob un
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind? Yes, Charlie is kind. Is Charlie kind?
+-------------------------------------
+Charlie is unkind. Is Charlie kind? No, Charlie is not kind. Is Charlie kind
+-------------------------------------
+Charlie is not kind. Is Charlie kind? No, Charlie is not kind. Is Charlie kind
+-------------------------------------
+Charlie is not unkind. Is Charlie kind? No, Charlie is not kind. Is Charlie kind
+-------------------------------------
+
+

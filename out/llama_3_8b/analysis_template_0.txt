@@ -1,0 +1,51 @@
+Sequence 0 Top3:  False  false  Nope
+Sequence 1 Top3:  Nope  false  False
+Sequence 2 Top3:  Nope  False False
+Sequence 3 Top3:  Nope uci  False
+Sequence 4 Top3:  Nope  answer  False
+Sequence 5 Top3:  False  Nope  false
+Sequence 6 Top3:  False .False  false
+Sequence 7 Top3:  False  answer .False
+Sequence 8 Top3:  False  false  FALSE
+--------------------------------------
+PC 0 Top3: beg  none NSBundle
+PC 1 Top3: itler ecies transfer
+PC 2 Top3: ンピ  Parkway apo
+PC 3 Top3: rosso verity ANDOM
+PC 4 Top3: ASK solete  reserve
+#######################################
+
+Sequence 0 Top3:  false  False  FALSE
+Sequence 1 Top3:  false  False =false
+Sequence 2 Top3: 否  false .False
+Sequence 3 Top3:  false  False  FALSE
+Sequence 4 Top3:  false  False  FALSE
+Sequence 5 Top3:  Nope  false  False
+Sequence 6 Top3:  False  false .False
+Sequence 7 Top3:  False  false .False
+Sequence 8 Top3:  False  false  FALSE
+--------------------------------------
+PC 0 Top3:  YES YES  yes
+PC 1 Top3:  nackt egin ủy
+PC 2 Top3: iangle GridColumn ookie
+PC 3 Top3: ubar enger  Both
+PC 4 Top3:  vice vel 陵
+#######################################
+
+Sequence 0 Top3: ansom Americ aptop
+Sequence 1 Top3: ansom -Sah  diseñador
+Sequence 2 Top3: ansom  diseñador цей
+Sequence 3 Top3:  Unknown  unknown unknown
+Sequence 4 Top3: ansom цей ’є
+Sequence 5 Top3: цей UNK ’є
+Sequence 6 Top3: ansom Undefined เต
+Sequence 7 Top3: ansom  treff -cigarettes
+Sequence 8 Top3: ansom usher  False
+--------------------------------------
+PC 0 Top3: beg  Beg  Lad
+PC 1 Top3: andr 677 alse
+PC 2 Top3: ottom YES  YES
+PC 3 Top3:  Answer CRY  Bid
+PC 4 Top3: สะ  treasury .EventType
+#######################################
+

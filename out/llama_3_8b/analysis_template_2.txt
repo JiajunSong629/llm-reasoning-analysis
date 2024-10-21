@@ -1,0 +1,51 @@
+Sequence 0 Top3:  false  Nope false
+Sequence 1 Top3:  Nope  false (False
+Sequence 2 Top3:  Nope  impossible ña
+Sequence 3 Top3:  Unc  impossible  Unsure
+Sequence 4 Top3:  Unc 不到  neutral
+Sequence 5 Top3:  neither  Neither Neither
+Sequence 6 Top3:  negative  Nope  opposite
+Sequence 7 Top3:  negative  Nope  opposite
+Sequence 8 Top3:  neither  Neither  Nope
+--------------------------------------
+PC 0 Top3:  both  Both Both
+PC 1 Top3:  False  false False
+PC 2 Top3:  neither  Neither  EITHER
+PC 3 Top3:  depends depends isen
+PC 4 Top3: หมาย  authDomain  Silence
+#######################################
+
+Sequence 0 Top3:  false  Nope .False
+Sequence 1 Top3:  false  Nope (FALSE
+Sequence 2 Top3:  false  Nope (FALSE
+Sequence 3 Top3:  Nope sis  nowhere
+Sequence 4 Top3:  Nope  nowhere 不到
+Sequence 5 Top3:  Nope zero  nowhere
+Sequence 6 Top3:  Nope  false (FALSE
+Sequence 7 Top3:  Nope  false (FALSE
+Sequence 8 Top3:  Nope (FALSE  false
+--------------------------------------
+PC 0 Top3:  SELF  MAK  latter
+PC 1 Top3:  False  false False
+PC 2 Top3: 258 ектор  Dut
+PC 3 Top3: ilig atch ANTE
+PC 4 Top3:  dependent  depends ongo
+#######################################
+
+Sequence 0 Top3: unknown  unknown UNKNOWN
+Sequence 1 Top3: unknown  unknown UNKNOWN
+Sequence 2 Top3: unknown  unknown  impossible
+Sequence 3 Top3:  neutrality  Unsure UNKNOWN
+Sequence 4 Top3:  neutrality UNKNOWN  diffic
+Sequence 5 Top3:  neutrality  Unsure Neutral
+Sequence 6 Top3:  neutrality Neutral  Neutral
+Sequence 7 Top3:  neutrality /perl omen
+Sequence 8 Top3: Neutral omen  neutral
+--------------------------------------
+PC 0 Top3: osy Both  SAME
+PC 1 Top3: depends zag  depends
+PC 2 Top3:  both  neither  Both
+PC 3 Top3: 相同 same Same
+PC 4 Top3:  royalties paper ncy
+#######################################
+

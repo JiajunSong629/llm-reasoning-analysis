@@ -1,0 +1,51 @@
+Sequence 0 Top3: MLLoader webElementGuid rungsseite
+Sequence 1 Top3: MLLoader  GoogleFonts webElementGuid
+Sequence 2 Top3:  PeEnEo  newUser typeDefinition
+Sequence 3 Top3: Reprodução rungsseite  kasarigan
+Sequence 4 Top3: Reprodução  rhestr  يتيمه
+Sequence 5 Top3: Reprodução  partij  médicale
+Sequence 6 Top3: TagHelpers  Exacts  الرياضيه
+Sequence 7 Top3: ніципалі  Exacts  myśli
+Sequence 8 Top3:  يتيمه genodigd GOTREF
+--------------------------------------
+PC 0 Top3:  pembun AddTagHelper  čás
+PC 1 Top3: RTHOOK ApiModelProperty  Achter
+PC 2 Top3:  Commit commit Commit
+PC 3 Top3: WriteBarrier  hilo  Riggs
+PC 4 Top3: WebVitals  Autorisations  intStringLen
+#######################################
+
+Sequence 0 Top3: cellona เร  Säure
+Sequence 1 Top3: เร ARIOS cellona
+Sequence 2 Top3: ąc 혔  Säure
+Sequence 3 Top3: uttosto  habet  pembun
+Sequence 4 Top3: uttosto colhead  MainAxisSize
+Sequence 5 Top3:  pembun uttosto  habet
+Sequence 6 Top3: évaluateur matics iglie
+Sequence 7 Top3: valents  BufferedWriter žená
+Sequence 8 Top3: cellona amethasone ary
+--------------------------------------
+PC 0 Top3:  MainAxisSize évaluateur AddTagHelper
+PC 1 Top3:  actionMode RenderAtEndOf ApiModelProperty
+PC 2 Top3: featureID  DEC  lance
+PC 3 Top3: IntoConstraints WriteBarrier  tribut
+PC 4 Top3:  zatem сюда  więc
+#######################################
+
+Sequence 0 Top3: MLLoader ніципалі  Signalez
+Sequence 1 Top3: MLLoader  Säure ніципалі
+Sequence 2 Top3: bietern MLLoader  Vierge
+Sequence 3 Top3:  Venedig  jueces  Vierge
+Sequence 4 Top3:  Venedig  desarrol  desarrollado
+Sequence 5 Top3:  jueces  Venedig  histoire
+Sequence 6 Top3: RegressionTest  незавершена BASELINE
+Sequence 7 Top3: glBindBuffer ніципалі Contributing
+Sequence 8 Top3: glBindBuffer  varietà  Venedig
+--------------------------------------
+PC 0 Top3:  Dafür  zůst  montaña
+PC 1 Top3:  Umfeld  feux  cejas
+PC 2 Top3:  Chriftian  DPI  antig
+PC 3 Top3: évaluateur ftagPool CloseOperation
+PC 4 Top3:  deseos ทอง  duele
+#######################################
+

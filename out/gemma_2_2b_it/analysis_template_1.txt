@@ -1,0 +1,57 @@
+Sequence 0 Top3:  therefore  opposite  Therefore
+Sequence 1 Top3:  therefore  opposite  Therefore
+Sequence 2 Top3:  opposite  therefore opposite
+Sequence 3 Top3:  opposite  reverse 相反
+Sequence 4 Top3:  opposite  reverse 相反
+Sequence 5 Top3:  opposite  reverse 相反
+Sequence 6 Top3:  reverse  opposite  not
+Sequence 7 Top3:  reverse  opposite  Reverse
+Sequence 8 Top3:  reverse  opposite  not
+--------------------------------------
+PC 0 Top3:  questione already  already
+PC 1 Top3: Therefore  Therefore  therefore
+PC 2 Top3: RetentionPolicy UserScript  مشين
+PC 3 Top3:  estekak UnknownFieldSet  yes
+PC 4 Top3:  reverse  opposite  contrary
+#######################################
+
+Sequence 0 Top3:  therefore  opposite  Therefore
+Sequence 1 Top3:  therefore  opposite  Therefore
+Sequence 2 Top3:  therefore  opposite  Therefore
+Sequence 3 Top3:  opposite 相反  reverse
+Sequence 4 Top3:  opposite 相反  reverse
+Sequence 5 Top3:  opposite 相反  contrario
+Sequence 6 Top3:  reverse  opposite  Reverse
+Sequence 7 Top3:  reverse  opposite  Reverse
+Sequence 8 Top3:  reverse  opposite  Reverse
+--------------------------------------
+PC 0 Top3:  nenhum  nữa  '\\;'
+PC 1 Top3: SequentialGroup  therefore borderSide
+PC 2 Top3: 出版年 RetentionPolicy httphttps
+PC 3 Top3:  stratégique  pedals hésite
+PC 4 Top3:  answer  ANSWER  answers
+#######################################
+
+Sequence 0 Top3:  Therefore  Hence  therefore
+Sequence 1 Top3:  opposite  reverse opposite
+Sequence 2 Top3:  opposite 相反  Therefore
+Sequence 3 Top3:  not  unknown not
+Sequence 4 Top3:  reverse  opposite  not
+Sequence 5 Top3:  not  opposite  reverse
+Sequence 6 Top3: . ? 
+
+
+Sequence 7 Top3: 
+
+ . ?
+Sequence 8 Top3: 
+
+ . ?
+--------------------------------------
+PC 0 Top3: िय zookeeper mapreduce
+PC 1 Top3: RenderAtEndOf )++;  therefore
+PC 2 Top3: providedIn AndEndTag DockStyle
+PC 3 Top3: 出版年 RetentionPolicy UserScript
+PC 4 Top3: extAlignment  answered tangentMode
+#######################################
+

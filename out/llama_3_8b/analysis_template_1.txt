@@ -1,0 +1,51 @@
+Sequence 0 Top3:  pseud  reason  Reason
+Sequence 1 Top3:  pseud  reason iges
+Sequence 2 Top3:  pseud iges ninger
+Sequence 3 Top3: iges  wholes  reason
+Sequence 4 Top3: iges  wholes ugu
+Sequence 5 Top3: iges  wholes  pseud
+Sequence 6 Top3:  wholes iges ify
+Sequence 7 Top3: elo ify ifar
+Sequence 8 Top3: ifar elo ify
+--------------------------------------
+PC 0 Top3: uyệt ρει elo
+PC 1 Top3: reesome oya anza
+PC 2 Top3:  PartialView  answer aiser
+PC 3 Top3:    why  raison
+PC 4 Top3: ActionCreators  Ulus osate
+#######################################
+
+Sequence 0 Top3: ッド iges ration
+Sequence 1 Top3: iges ッド illi
+Sequence 2 Top3: iges (a illi
+Sequence 3 Top3: ugu 丁 iges
+Sequence 4 Top3: 丁 apot  Nope
+Sequence 5 Top3:  wholes iges pu
+Sequence 6 Top3: iges  treff  premises
+Sequence 7 Top3: elo iges izon
+Sequence 8 Top3: iges uguay  SOM
+--------------------------------------
+PC 0 Top3:  mbox :not RuntimeObject
+PC 1 Top3: .stamp _INSERT atz
+PC 2 Top3: ufen _ass 940
+PC 3 Top3: ungeon รม FSIZE
+PC 4 Top3: azen yar lest
+#######################################
+
+Sequence 0 Top3:  reason  according  Reason
+Sequence 1 Top3:  Reason  reason  wholes
+Sequence 2 Top3:  reason  Reason  wholes
+Sequence 3 Top3:  wholes  reason  Reason
+Sequence 4 Top3:  wholes ige ration
+Sequence 5 Top3:  wholes .Linked ige
+Sequence 6 Top3: .Linked atab ify
+Sequence 7 Top3: remen iges .cb
+Sequence 8 Top3: remen  wholes .cb
+--------------------------------------
+PC 0 Top3: indsight reek bestos
+PC 1 Top3:  options ops zer
+PC 2 Top3:  answer Pooling  Buckingham
+PC 3 Top3:  Bbw .IsSuccess loth
+PC 4 Top3: icens lesia heartbeat
+#######################################
+

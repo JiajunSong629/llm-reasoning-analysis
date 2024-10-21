@@ -1,0 +1,51 @@
+Sequence 0 Top3: answer answered answer
+Sequence 1 Top3: answer answered answer
+Sequence 2 Top3: answer answers apa
+Sequence 3 Top3: Gir ask answers
+Sequence 4 Top3: negl answers intermediate
+Sequence 5 Top3: negl change canvas
+Sequence 6 Top3: aqu ans Kinder
+Sequence 7 Top3: answer ans answers
+Sequence 8 Top3: Kinder classroom homework
+--------------------------------------
+PC 0 Top3: orsz iteral bolds
+PC 1 Top3: Benj /******/ ika
+PC 2 Top3: Songs Spirit plenty
+PC 3 Top3: etc emu apa
+PC 4 Top3: ಠ typen gress
+#######################################
+
+Sequence 0 Top3: undefined 비 undefined
+Sequence 1 Top3: initially 비 first
+Sequence 2 Top3: apa neither discussion
+Sequence 3 Top3: neither limited negl
+Sequence 4 Top3: neither rarely patch
+Sequence 5 Top3: neither limited zero
+Sequence 6 Top3: maybe probably maybe
+Sequence 7 Top3: oki limited Gem
+Sequence 8 Top3: oki limited neither
+--------------------------------------
+PC 0 Top3: ór rare ook
+PC 1 Top3: shouldn chap omo
+PC 2 Top3: occasional occasionally philos
+PC 3 Top3: agem éric aris
+PC 4 Top3: aniu egründ ilib
+#######################################
+
+Sequence 0 Top3: defined Definition ango
+Sequence 1 Top3: Definition definition defined
+Sequence 2 Top3: yes probably yes
+Sequence 3 Top3: difficult unknown undefined
+Sequence 4 Top3: difficult defin unknown
+Sequence 5 Top3: difficult defin unknown
+Sequence 6 Top3: ? 呢 maybe
+Sequence 7 Top3: ? limited neutral
+Sequence 8 Top3: however limited ?
+--------------------------------------
+PC 0 Top3: bail ingly hij
+PC 1 Top3: INCLUDING olu ouw
+PC 2 Top3: /******/ pdata aris
+PC 3 Top3: Answer answering arto
+PC 4 Top3: erten wx pez
+#######################################
+

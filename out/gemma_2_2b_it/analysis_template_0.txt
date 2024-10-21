@@ -1,0 +1,51 @@
+Sequence 0 Top3:  NOT  sebaliknya  opposite
+Sequence 1 Top3:  NOT  opposite NOT
+Sequence 2 Top3:  opposite  NOT 相反
+Sequence 3 Top3:  contrario  opposite  neither
+Sequence 4 Top3:  contrario  opposite contr
+Sequence 5 Top3:  opposite  contrario  neither
+Sequence 6 Top3: Nope  NOT NOT
+Sequence 7 Top3: Nope  opposite 相反
+Sequence 8 Top3: Nope  Nope 相反
+--------------------------------------
+PC 0 Top3:  pinulongan  propOrder SuppressMessage
+PC 1 Top3: RectangleBorder oa̍t  Efq
+PC 2 Top3:  تنا RegressionTest  contradiction
+PC 3 Top3: Whether  whether  or
+PC 4 Top3:  Yes Yes  yes
+#######################################
+
+Sequence 0 Top3:  NOT  or  opposite
+Sequence 1 Top3:  opposite  NOT 相反
+Sequence 2 Top3:  NOT  or  not
+Sequence 3 Top3:  NOT  not  false
+Sequence 4 Top3:  NOT  false  or
+Sequence 5 Top3:  or  NOT  denied
+Sequence 6 Top3:  or  please  Please
+Sequence 7 Top3:  or or  NOT
+Sequence 8 Top3:  or  Please  please
+--------------------------------------
+PC 0 Top3: Gilla  propOrder  yes
+PC 1 Top3: RectangleBorder onViewCreated adaptiveStyles
+PC 2 Top3:  Paradox Paradox  paradox
+PC 3 Top3: ViewFeatures  isInitialized IsMutable
+PC 4 Top3:  Yes Yes  ExecuteAsync
+#######################################
+
+Sequence 0 Top3:  reasons  why reasons
+Sequence 1 Top3:  reasons  why  explain
+Sequence 2 Top3:  reasons  why  explain
+Sequence 3 Top3:  reasons Explain  why
+Sequence 4 Top3:  reasons  Explain Explain
+Sequence 5 Top3:  reasons  explain  Explain
+Sequence 6 Top3:  reasons  why  Why
+Sequence 7 Top3:  reasons  why  Why
+Sequence 8 Top3:  reasons  why  Why
+--------------------------------------
+PC 0 Top3: DockStyle AutoScaleMode  NSCoder
+PC 1 Top3: contentLoaded FieldNumber Jpa
+PC 2 Top3: "): )"; .",
+PC 3 Top3: LookAnd  AssemblyTitle  statement
+PC 4 Top3: insegna  myſelf <bos>
+#######################################
+

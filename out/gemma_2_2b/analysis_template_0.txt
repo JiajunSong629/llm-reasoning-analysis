@@ -1,0 +1,55 @@
+Sequence 0 Top3:  These These  I
+Sequence 1 Top3: 定义  definiert  defines
+Sequence 2 Top3:  definition  объяс  définition
+Sequence 3 Top3: ="@+ netinet gameserver
+Sequence 4 Top3: ="@+ gameserver stdc
+Sequence 5 Top3: netinet AndEndTag ]<=
+Sequence 6 Top3:  story  opinion  cra
+Sequence 7 Top3:  these     урока
+Sequence 8 Top3:  평  story  read
+--------------------------------------
+PC 0 Top3: OGND writeFieldEnd  snippetHide
+PC 1 Top3:  NSCoder 发表于  pertanyaan
+PC 2 Top3:  these  These These
+PC 3 Top3: Personendaten  preuves rungsseite
+PC 4 Top3:  Strategies AGEM  narrative
+#######################################
+
+Sequence 0 Top3:  I 
+
+ ...
+Sequence 1 Top3:  raconte ufficio  yardım
+Sequence 2 Top3:  raconte  definition  description
+Sequence 3 Top3:  explain rogly fieras
+Sequence 4 Top3:  MainAxisSize читайте InstanceState
+Sequence 5 Top3: ]<= ](#  neither
+Sequence 6 Top3:  maybe  Maybe Maybe
+Sequence 7 Top3:  cra  Anyway  maybe
+Sequence 8 Top3:  maybe  Anyway  Maybe
+--------------------------------------
+PC 0 Top3:  Maybe  maybe Maybe
+PC 1 Top3:  but 
+
+  But
+PC 2 Top3: ...  let  these
+PC 3 Top3: GraphicsUnit tagHelperRunner  char
+PC 4 Top3:  neither Neither neither
+#######################################
+
+Sequence 0 Top3:  I    opinión
+Sequence 1 Top3:  opinión    pendapat
+Sequence 2 Top3:  opinión  Maybe Maybe
+Sequence 3 Top3:  explain explain  Explain
+Sequence 4 Top3:  explain explain  bantu
+Sequence 5 Top3:  explain  Explain  explanation
+Sequence 6 Top3:  pendapat  why  Why
+Sequence 7 Top3:  explain  please  discussion
+Sequence 8 Top3:  explain Explain explain
+--------------------------------------
+PC 0 Top3: OGND Vidite Personensuche
+PC 1 Top3:  Answering adaptiveStyles  NSCoder
+PC 2 Top3:  these  These These
+PC 3 Top3:  समीक्षाएं  paragraph  nakalista
+PC 4 Top3: Personendaten LookAnd ^(@)
+#######################################
+

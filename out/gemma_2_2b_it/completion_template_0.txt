@@ -1,0 +1,176 @@
+Alice is healthy. Is Alice healthy?
+
+This is a classic example of a **self
+-------------------------------------
+Alice is unhealthy. Is Alice healthy?
+
+This is a trick question! 
+
+Here
+-------------------------------------
+Alice is not healthy. Is Alice healthy?
+
+This is a trick question! 
+
+Here
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy?
+
+Here's why this is a bit of
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy?
+
+This is a classic example of a **self
+-------------------------------------
+Bob is unhealthy. Is Bob healthy?
+
+This is a trick question! 
+
+Here
+-------------------------------------
+Bob is not healthy. Is Bob healthy?
+
+This is a bit of a trick question!
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy?
+
+Here's why this is a bit of
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy?
+
+This is a classic example of a **self
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy?
+
+This is a trick question! 
+
+Here
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy?
+
+This is a trick question! Here's
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy?
+
+Here's why this is a bit of
+-------------------------------------
+
+
+Alice is happy. Is Alice happy?
+
+This is a classic example of a **logical
+-------------------------------------
+Alice is unhappy. Is Alice happy?
+
+This is a bit of a trick question!
+-------------------------------------
+Alice is not happy. Is Alice happy?
+
+Here's why this is a tricky question
+-------------------------------------
+Alice is not unhappy. Is Alice happy?
+
+This is a classic logic puzzle that plays on
+-------------------------------------
+
+
+Bob is happy. Is Bob happy?
+
+This is a classic example of a **logical
+-------------------------------------
+Bob is unhappy. Is Bob happy?
+
+This is a classic logic puzzle that plays on
+-------------------------------------
+Bob is not happy. Is Bob happy?
+
+Here's why this is a tricky question
+-------------------------------------
+Bob is not unhappy. Is Bob happy?
+
+This is a classic logic puzzle that plays on
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy?
+
+This is a classic example of a **logical
+-------------------------------------
+Charlie is unhappy. Is Charlie happy?
+
+This is a bit of a trick question!
+-------------------------------------
+Charlie is not happy. Is Charlie happy?
+
+Here's why we can't know
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy?
+
+Here's why this is a bit of
+-------------------------------------
+
+
+Alice is kind. Is Alice kind?
+
+This is a classic example of a **logical
+-------------------------------------
+Alice is unkind. Is Alice kind?
+
+This is a classic example of a **false
+-------------------------------------
+Alice is not kind. Is Alice kind?
+
+This is a trick question! 
+
+Here
+-------------------------------------
+Alice is not unkind. Is Alice kind?
+
+Here's why this is a tricky question
+-------------------------------------
+
+
+Bob is kind. Is Bob kind?
+
+This is a classic example of a **logical
+-------------------------------------
+Bob is unkind. Is Bob kind?
+
+This is a classic example of a **logical
+-------------------------------------
+Bob is not kind. Is Bob kind?
+
+This is a trick question! 
+
+Here
+-------------------------------------
+Bob is not unkind. Is Bob kind?
+
+Here's why this is a tricky question
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind?
+
+This is a classic example of a **logical
+-------------------------------------
+Charlie is unkind. Is Charlie kind?
+
+No, Charlie is not kind. 
+
+
+-------------------------------------
+Charlie is not kind. Is Charlie kind?
+
+This is a classic example of a **false
+-------------------------------------
+Charlie is not unkind. Is Charlie kind?
+
+Here's why this is a good example
+-------------------------------------
+
+

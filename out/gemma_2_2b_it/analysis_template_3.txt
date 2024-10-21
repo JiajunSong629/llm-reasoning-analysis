@@ -1,0 +1,51 @@
+Sequence 0 Top3:  incompatible  consultato penia
+Sequence 1 Top3:  conflicting  incompatible penia
+Sequence 2 Top3:  conflicting  incompatible 出版年
+Sequence 3 Top3: neither  incompatible  Incompatible
+Sequence 4 Top3:  Incompatible  incompatible GRAPHS
+Sequence 5 Top3: GRAPHS  Incompatible ंदीखरीदारी
+Sequence 6 Top3: penia neither  Kedua
+Sequence 7 Top3:  contrasting  contrasts  Kedua
+Sequence 8 Top3: neither  contrasts  contrasting
+--------------------------------------
+PC 0 Top3:  >=",  ioutil  @}
+PC 1 Top3: tagHelperRunner OrBuilder  مرئيه
+PC 2 Top3:  समीक्षाओं yntaxException  esternos
+PC 3 Top3: razos  condamné pecially
+PC 4 Top3: AndEndTag  Chwiliwch NUMX
+#######################################
+
+Sequence 0 Top3:  contradictory  conflicting 出版年
+Sequence 1 Top3:  contradictory  conflicting 矛盾
+Sequence 2 Top3:  contradictory  conflicting  contradictions
+Sequence 3 Top3:  Incompatible neither  incompatible
+Sequence 4 Top3: 矛盾  reconcile  paradoxical
+Sequence 5 Top3:  ExecuteAsync ंदीखरीदारी explanatory
+Sequence 6 Top3: neither 出版年 Neither
+Sequence 7 Top3: SourceChecksum neither 出版年
+Sequence 8 Top3: SourceChecksum 出版年  ExecuteAsync
+--------------------------------------
+PC 0 Top3:  yes  this Yes
+PC 1 Top3:  widers onedDateTime apimachinery
+PC 2 Top3:  فريبيس  propOrder  समीक्षाओं
+PC 3 Top3:  समीक्षक 外部リンク uxxxx
+PC 4 Top3: 脚注の使い方 SBATCH  useStyles
+#######################################
+
+Sequence 0 Top3:  propOrder AccessorTable tagHelperRunner
+Sequence 1 Top3: AccessorTable  propOrder tagHelperRunner
+Sequence 2 Top3:  propOrder tagHelperRunner AccessorTable
+Sequence 3 Top3:  propOrder AccessorTable "]));
+Sequence 4 Top3: AccessorTable  propOrder ]]:
+Sequence 5 Top3:  propOrder AccessorTable  cherchés
+Sequence 6 Top3: AccessorTable  propOrder  SwitchCompat
+Sequence 7 Top3: AccessorTable ]))); tagHelperRunner
+Sequence 8 Top3:  propOrder AccessorTable tagHelperRunner
+--------------------------------------
+PC 0 Top3:  ioutil below  >=",
+PC 1 Top3:  FetchType AndPassword  GenerationType
+PC 2 Top3:  yes  Yes Yes
+PC 3 Top3:  wrong wrong Wrong
+PC 4 Top3:  Theſe  yes yes
+#######################################
+

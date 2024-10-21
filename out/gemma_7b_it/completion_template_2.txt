@@ -1,0 +1,162 @@
+Alice is healthy. Is Alice healthy? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+Alice is unhealthy. Is Alice healthy? The answer is no.
+
+The text describes Alice as unhealthy.
+-------------------------------------
+Alice is not healthy. Is Alice healthy? The answer is no.
+
+The text above is an example of
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy? The answer is yes.
+
+The text is asking if Bob is
+-------------------------------------
+Bob is unhealthy. Is Bob healthy? The answer is no.
+
+The text states that Bob is unhealthy
+-------------------------------------
+Bob is not healthy. Is Bob healthy? The answer is no.
+
+The above text is an example of
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy? The answer is yes.
+
+The text describes Bob as not unhealthy
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy? The answer is yes.
+
+The text is asking if Charlie is
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy? The answer is no.
+
+The text describes Charlie as unhealthy.
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy? The answer is no.
+
+The text describes Charlie's health
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy? The answer is yes.
+
+The text describes Charlie as not unhealthy
+-------------------------------------
+
+
+Alice is happy. Is Alice happy? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+Alice is unhappy. Is Alice happy? The answer is no.
+
+This text is an example of what
+-------------------------------------
+Alice is not happy. Is Alice happy? The answer is no.
+
+The text describes Alice's unhappiness
+-------------------------------------
+Alice is not unhappy. Is Alice happy? The answer is yes.
+
+This is an example of a compound
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+Bob is unhappy. Is Bob happy? The answer is no.
+
+The text states that Bob is unhappy
+-------------------------------------
+Bob is not happy. Is Bob happy? The answer is no.
+
+The above text is an example of
+-------------------------------------
+Bob is not unhappy. Is Bob happy? The answer is neutral.
+
+The text does not describe Bob'
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? The answer is yes.
+
+This is an example of what type
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? The answer is no.
+
+The text describes Charlie's unhappiness
+-------------------------------------
+Charlie is not happy. Is Charlie happy? The answer is no.
+
+The text describes Charlie's unhappiness
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy? The answer is yes.
+
+This is an example of what type
+-------------------------------------
+
+
+Alice is kind. Is Alice kind? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+Alice is unkind. Is Alice kind? The answer is no.
+
+The text describes Alice as "unk
+-------------------------------------
+Alice is not kind. Is Alice kind? The answer is no.
+
+The text above describes Alice as not
+-------------------------------------
+Alice is not unkind. Is Alice kind? The answer is yes.
+
+The text describes Alice as not being
+-------------------------------------
+
+
+Bob is kind. Is Bob kind? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+Bob is unkind. Is Bob kind? The answer is no.
+
+The text describes Bob as "unk
+-------------------------------------
+Bob is not kind. Is Bob kind? The answer is no.
+
+This text is an example of what
+-------------------------------------
+Bob is not unkind. Is Bob kind? The answer is yes.
+
+The text describes Bob as not unkind
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind? The answer is yes.
+
+The text above is an example of
+-------------------------------------
+Charlie is unkind. Is Charlie kind? The answer is no.
+
+The text describes Charlie as "unk
+-------------------------------------
+Charlie is not kind. Is Charlie kind? The answer is no.
+
+The text describes Charlie as not kind
+-------------------------------------
+Charlie is not unkind. Is Charlie kind? The answer is yes.
+
+The text describes Charlie as not unkind
+-------------------------------------
+
+

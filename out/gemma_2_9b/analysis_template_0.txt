@@ -1,0 +1,51 @@
+Sequence 0 Top3:  disambiguazione getSystemService  autorytatywna
+Sequence 1 Top3: getSystemService stylers didSet
+Sequence 2 Top3:  nahilalakip  autorytatywna ToBounds
+Sequence 3 Top3: TypedDataSet ⓧ  nahilalakip
+Sequence 4 Top3: TypedDataSet ⓧ BeginContext
+Sequence 5 Top3: ⓧ  nahilalakip BeginContext
+Sequence 6 Top3: ToBounds providedIn getSystemService
+Sequence 7 Top3: addGap wantErr getSystemService
+Sequence 8 Top3: ToBounds SpringBootTest awtextra
+--------------------------------------
+PC 0 Top3:  Abund tagHelperRunner  setAddress
+PC 1 Top3: addCriterion hyrchwyd  AssemblyCulture
+PC 2 Top3: jelasan  Jep Conclusão
+PC 3 Top3: évaluateur الحياه setVerticalGroup
+PC 4 Top3: ostante '), 이션
+#######################################
+
+Sequence 0 Top3:  EconPapers  AssemblyProduct LookAnd
+Sequence 1 Top3:  AssemblyProduct  sebaliknya  Veuillez
+Sequence 2 Top3:  eventdata  NavController verifyException
+Sequence 3 Top3: BeginContext  CreateTagHelper  jsPsych
+Sequence 4 Top3: offsetof  CreateTagHelper BeginContext
+Sequence 5 Top3: BeginContext offsetof  CreateTagHelper
+Sequence 6 Top3:  TestBed  ostavi LookAnd
+Sequence 7 Top3:  ostavi  TestBed LookAnd
+Sequence 8 Top3:  TestBed  للمعارف ToBounds
+--------------------------------------
+PC 0 Top3:  disambiguazione outWeight +#+
+PC 1 Top3:  fl  hjelpe  vertrouwen
+PC 2 Top3: uvwxyz  ويكيپيديا Autoritní
+PC 3 Top3: Vanjske usercontent évaluateur
+PC 4 Top3: Reprodução  enfans  betweenstory
+#######################################
+
+Sequence 0 Top3:  Signalez LookAnd  invokingState
+Sequence 1 Top3: LookAnd ContentLoaded  EconPapers
+Sequence 2 Top3:  nahilalakip  autorytatywna IContainer
+Sequence 3 Top3:  MainAxisSize  IContainer
+Sequence 4 Top3:   MainAxisSize  ModelExpression
+Sequence 5 Top3:  odkazy  verifyException
+Sequence 6 Top3:  صوتيه RegressionTest  nahilalakip
+Sequence 7 Top3:  صوتيه  nahilalakip verifyException
+Sequence 8 Top3: RegressionTest verifyException  autorytatywna
+--------------------------------------
+PC 0 Top3: WriteTagHelper  snippetHide WebElementEntity
+PC 1 Top3:  Dusche  hoteles  Platz
+PC 2 Top3: ViewFeatures WriteAttribute  disambiguazione
+PC 3 Top3: ftagPool Datuak LookAnd
+PC 4 Top3: IContainer  initComponents makeText
+#######################################
+

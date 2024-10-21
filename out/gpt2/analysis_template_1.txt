@@ -1,0 +1,51 @@
+Sequence 0 Top3:  crafts WORK  vocational
+Sequence 1 Top3:  Publications  Consult  Work
+Sequence 2 Top3:  Publications  Educ  Disc
+Sequence 3 Top3:  latter WORK advertisement
+Sequence 4 Top3: channel avers aver
+Sequence 5 Top3:  output channel  succeeding
+Sequence 6 Top3: Contents Reilly eaturing
+Sequence 7 Top3: usting  reclaimed  desirable
+Sequence 8 Top3: usting ashington Reilly
+--------------------------------------
+PC 0 Top3: aturdays blank riot
+PC 1 Top3:  Unless  Goes  Kardash
+PC 2 Top3: advertisement ngth Food
+PC 3 Top3: isphere  driveway  cape
+PC 4 Top3:  ® ertodd Merit
+#######################################
+
+Sequence 0 Top3: soDeliveryDate enhagen  anecdotal
+Sequence 1 Top3: soDeliveryDate enhagen :-
+Sequence 2 Top3: soDeliveryDate :- arium
+Sequence 3 Top3: soDeliveryDate enhagen :-
+Sequence 4 Top3: soDeliveryDate :- enhagen
+Sequence 5 Top3: soDeliveryDate :- aston
+Sequence 6 Top3: plex stra  subsystem
+Sequence 7 Top3:  suffice  subsystem  pie
+Sequence 8 Top3:  save adelphia  bang
+--------------------------------------
+PC 0 Top3: nia  liv  nic
+PC 1 Top3:  FedEx  consum  dinners
+PC 2 Top3:  Edinburgh  Macintosh reader
+PC 3 Top3: agically whatever ignt
+PC 4 Top3: ,)  *) *)
+#######################################
+
+Sequence 0 Top3: soDeliveryDate enhagen  anecdotal
+Sequence 1 Top3: soDeliveryDate enhagen attery
+Sequence 2 Top3: soDeliveryDate arium :-
+Sequence 3 Top3: enhagen soDeliveryDate :-
+Sequence 4 Top3: soDeliveryDate :- enhagen
+Sequence 5 Top3: soDeliveryDate :- aston
+Sequence 6 Top3: soDeliveryDate  Brill  Contrast
+Sequence 7 Top3: soDeliveryDate erb ewitness
+Sequence 8 Top3: soDeliveryDate erb Redditor
+--------------------------------------
+PC 0 Top3:  terminating udos aturdays
+PC 1 Top3:  iP  Newsp  Norton
+PC 2 Top3:  Locations  Packs  Continent
+PC 3 Top3: aturdays  piv ewitness
+PC 4 Top3:  Parameters  Incre  Signal
+#######################################
+

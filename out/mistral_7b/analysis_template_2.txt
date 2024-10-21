@@ -1,0 +1,51 @@
+Sequence 0 Top3: odd izarre complicated
+Sequence 1 Top3: odd izarre explan
+Sequence 2 Top3: analys aben ₦
+Sequence 3 Top3: neither Neither nobody
+Sequence 4 Top3: neither Neither contrad
+Sequence 5 Top3: neither Neither ogg
+Sequence 6 Top3: depending depend Neither
+Sequence 7 Top3: neither Neither contrad
+Sequence 8 Top3: Neither depending contrad
+--------------------------------------
+PC 0 Top3: both Both both
+PC 1 Top3: ffen /******/ buzz
+PC 2 Top3: YOU companion ubl
+PC 3 Top3: currently perman myster
+PC 4 Top3: both both simultaneously
+#######################################
+
+Sequence 0 Top3: nor faded Nor
+Sequence 1 Top3: nor nobody Nor
+Sequence 2 Top3: nor nowhere Nor
+Sequence 3 Top3: nor NOT nah
+Sequence 4 Top3: NOT zero nad
+Sequence 5 Top3: NOT nah lowest
+Sequence 6 Top3: nah lacking absent
+Sequence 7 Top3: absent nor nah
+Sequence 8 Top3: nor absent lacking
+--------------------------------------
+PC 0 Top3: hint erme banking
+PC 1 Top3: ambig irrelevant ambigu
+PC 2 Top3: both ALL literal
+PC 3 Top3: FTWARE Ê onal
+PC 4 Top3: both both depending
+#######################################
+
+Sequence 0 Top3: also unknown unknown
+Sequence 1 Top3: unknown unknown undefined
+Sequence 2 Top3: unknown unknown compar
+Sequence 3 Top3: equally similarly likewise
+Sequence 4 Top3: unknown complicated unknown
+Sequence 5 Top3: unknown undefined unknown
+Sequence 6 Top3: complicated grey complex
+Sequence 7 Top3: absent lacking unknown
+Sequence 8 Top3: elf HECK ряд
+--------------------------------------
+PC 0 Top3: depending both both
+PC 1 Top3: depending opposite depend
+PC 2 Top3: öß ancia FTWARE
+PC 3 Top3: both complicated both
+PC 4 Top3: tn pretty likelihood
+#######################################
+

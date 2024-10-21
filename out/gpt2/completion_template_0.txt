@@ -1,0 +1,182 @@
+Alice is healthy. Is Alice healthy?
+
+The answer is no.
+
+The
+-------------------------------------
+Alice is unhealthy. Is Alice healthy?
+
+The answer is no.
+
+The
+-------------------------------------
+Alice is not healthy. Is Alice healthy?
+
+The answer is no.
+
+The
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy?
+
+The answer is yes.
+
+The
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy?
+
+Bob: I don't know. I
+-------------------------------------
+Bob is unhealthy. Is Bob healthy?
+
+The answer is no.
+
+Bob
+-------------------------------------
+Bob is not healthy. Is Bob healthy?
+
+Bob is not healthy. Is Bob healthy
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy?
+
+No.
+
+Bob is not unhealthy
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy?
+
+"I think he's healthy," he
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy?
+
+I don't know. I don't
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy?
+
+"I don't know," he said
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy?
+
+I don't know. I don't
+-------------------------------------
+
+
+Alice is happy. Is Alice happy?
+
+"Yes, I am."
+
+
+-------------------------------------
+Alice is unhappy. Is Alice happy?
+
+"No, I'm not happy,"
+-------------------------------------
+Alice is not happy. Is Alice happy?
+
+"I'm not happy," she says
+-------------------------------------
+Alice is not unhappy. Is Alice happy?
+
+"No, I am not happy,"
+-------------------------------------
+
+
+Bob is happy. Is Bob happy?
+
+Bob: I'm not.
+
+
+-------------------------------------
+Bob is unhappy. Is Bob happy? Is he happy?
+
+"I don't
+-------------------------------------
+Bob is not happy. Is Bob happy?
+
+"No, he's not happy,"
+-------------------------------------
+Bob is not unhappy. Is Bob happy?
+
+"I am not happy," he says
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy?
+
+"Yes, I am. I am
+-------------------------------------
+Charlie is unhappy. Is Charlie happy?
+
+"I don't know," he says
+-------------------------------------
+Charlie is not happy. Is Charlie happy?
+
+"No, I don't think so
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy?
+
+"Yes," he says. "I
+-------------------------------------
+
+
+Alice is kind. Is Alice kind?
+
+"Yes, I am."
+
+
+-------------------------------------
+Alice is unkind. Is Alice kind?
+
+"I don't know," she says
+-------------------------------------
+Alice is not kind. Is Alice kind?
+
+"I don't know," she says
+-------------------------------------
+Alice is not unkind. Is Alice kind?
+
+The answer is no.
+
+The
+-------------------------------------
+
+
+Bob is kind. Is Bob kind?
+
+Bobby: I don't know.
+-------------------------------------
+Bob is unkind. Is Bob kind?
+
+Bob: I don't know. I
+-------------------------------------
+Bob is not kind. Is Bob kind?
+
+I don't know. I don't
+-------------------------------------
+Bob is not unkind. Is Bob kind?
+
+Bob: I am not. I am
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind?
+
+I don't know. I don't
+-------------------------------------
+Charlie is unkind. Is Charlie kind?
+
+"I don't know. I don
+-------------------------------------
+Charlie is not kind. Is Charlie kind?
+
+I don't know. I don't
+-------------------------------------
+Charlie is not unkind. Is Charlie kind?
+
+"I don't know," he says
+-------------------------------------
+
+

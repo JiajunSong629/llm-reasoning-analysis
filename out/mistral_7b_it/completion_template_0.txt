@@ -1,0 +1,136 @@
+Alice is healthy. Is Alice healthy?
+A: True
+-------------------------------------
+Alice is unhealthy. Is Alice healthy?
+A: False
+-------------------------------------
+Alice is not healthy. Is Alice healthy?
+A: False
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy?
+A: True
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy?
+A: True
+-------------------------------------
+Bob is unhealthy. Is Bob healthy?
+A: False
+-------------------------------------
+Bob is not healthy. Is Bob healthy?
+A: False
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy?
+A: False
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy?
+
+Charlie is healthy. Is Charlie
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy?
+A: False
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy?
+
+Charlie is not healthy.
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy?
+
+Charlie is not unhealthy
+-------------------------------------
+
+
+Alice is happy. Is Alice happy?
+
+Yes, Alice is happy.
+
+
+-------------------------------------
+Alice is unhappy. Is Alice happy?
+A: False
+-------------------------------------
+Alice is not happy. Is Alice happy? No. Is Alice unhappy? Yes. Is Alice
+-------------------------------------
+Alice is not unhappy. Is Alice happy?
+
+Answer: No, Alice is not
+-------------------------------------
+
+
+Bob is happy. Is Bob happy?
+
+Yes, Bob is happy.
+-------------------------------------
+Bob is unhappy. Is Bob happy?
+A: False
+-------------------------------------
+Bob is not happy. Is Bob happy? No. Is Bob unhappy? Yes. Is Bob
+-------------------------------------
+Bob is not unhappy. Is Bob happy?
+
+Bob is not unhappy. Is Bob
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? Yes, Charlie is happy. Charlie is very happy
+-------------------------------------
+Charlie is unhappy. Is Charlie happy? No. Is Charlie unhappy? Yes. Is Charlie
+-------------------------------------
+Charlie is not happy. Is Charlie happy? No. Charlie is not happy. Charlie is very
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy?
+
+Charlie is not unhappy. Is
+-------------------------------------
+
+
+Alice is kind. Is Alice kind?
+A: True
+-------------------------------------
+Alice is unkind. Is Alice kind?
+A: False
+-------------------------------------
+Alice is not kind. Is Alice kind?
+A: False
+-------------------------------------
+Alice is not unkind. Is Alice kind?
+A: True
+-------------------------------------
+
+
+Bob is kind. Is Bob kind?
+A: Yes
+-------------------------------------
+Bob is unkind. Is Bob kind?
+A: False
+-------------------------------------
+Bob is not kind. Is Bob kind?
+A: False
+-------------------------------------
+Bob is not unkind. Is Bob kind?
+A: Yes
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind?
+
+Charlie is kind.
+
+
+-------------------------------------
+Charlie is unkind. Is Charlie kind?
+A: False
+-------------------------------------
+Charlie is not kind. Is Charlie kind?
+
+Charlie is not kind.
+-------------------------------------
+Charlie is not unkind. Is Charlie kind?
+
+Charlie is not unkind.
+-------------------------------------
+
+

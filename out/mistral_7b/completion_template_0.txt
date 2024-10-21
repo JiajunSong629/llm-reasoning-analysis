@@ -1,0 +1,210 @@
+Alice is healthy. Is Alice healthy?
+
+Alice is healthy.
+
+Al
+-------------------------------------
+Alice is unhealthy. Is Alice healthy?
+
+Alice is unhealthy.
+
+-------------------------------------
+Alice is not healthy. Is Alice healthy?
+
+Alice is not healthy.
+
+
+-------------------------------------
+Alice is not unhealthy. Is Alice healthy?
+
+Alice is not unhealthy.
+-------------------------------------
+
+
+Bob is healthy. Is Bob healthy?
+
+Bob is healthy.
+
+B
+-------------------------------------
+Bob is unhealthy. Is Bob healthy?
+
+Bob is unhealthy.
+
+-------------------------------------
+Bob is not healthy. Is Bob healthy?
+
+Bob is not healthy.
+
+
+-------------------------------------
+Bob is not unhealthy. Is Bob healthy?
+
+Bob is not unhealthy.
+-------------------------------------
+
+
+Charlie is healthy. Is Charlie healthy?
+
+Charlie is healthy.
+
+
+-------------------------------------
+Charlie is unhealthy. Is Charlie healthy?
+
+Charlie is a 10
+-------------------------------------
+Charlie is not healthy. Is Charlie healthy?
+
+Charlie is not healthy.
+
+-------------------------------------
+Charlie is not unhealthy. Is Charlie healthy?
+
+Charlie is a 10
+-------------------------------------
+
+
+Alice is happy. Is Alice happy?
+
+Alice is happy.
+
+Al
+-------------------------------------
+Alice is unhappy. Is Alice happy?
+
+Alice is unhappy.
+
+Al
+-------------------------------------
+Alice is not happy. Is Alice happy?
+
+Alice is not happy.
+
+
+-------------------------------------
+Alice is not unhappy. Is Alice happy?
+
+Alice is not unhappy.
+
+
+-------------------------------------
+
+
+Bob is happy. Is Bob happy? Bob is happy.
+
+Bob is happy
+-------------------------------------
+Bob is unhappy. Is Bob happy?
+
+Bob is unhappy.
+
+B
+-------------------------------------
+Bob is not happy. Is Bob happy?
+
+Bob is not happy.
+
+
+-------------------------------------
+Bob is not unhappy. Is Bob happy?
+
+Bob is not unhappy.
+
+
+-------------------------------------
+
+
+Charlie is happy. Is Charlie happy? Charlie is happy.
+
+Charlie is
+-------------------------------------
+Charlie is unhappy. Is Charlie happy?
+
+Charlie is unhappy.
+
+
+-------------------------------------
+Charlie is not happy. Is Charlie happy?
+
+Charlie is not happy. Is
+-------------------------------------
+Charlie is not unhappy. Is Charlie happy?
+
+Charlie is not unhappy.
+
+-------------------------------------
+
+
+Alice is kind. Is Alice kind?
+
+Alice is kind.
+
+Al
+-------------------------------------
+Alice is unkind. Is Alice kind?
+
+Alice is unkind.
+
+
+-------------------------------------
+Alice is not kind. Is Alice kind?
+
+Alice is not kind.
+
+
+-------------------------------------
+Alice is not unkind. Is Alice kind?
+
+Alice is not unkind.
+
+-------------------------------------
+
+
+Bob is kind. Is Bob kind?
+
+Bob is kind.
+
+B
+-------------------------------------
+Bob is unkind. Is Bob kind?
+
+Bob is unkind.
+
+
+-------------------------------------
+Bob is not kind. Is Bob kind?
+
+Bob is not kind.
+
+
+-------------------------------------
+Bob is not unkind. Is Bob kind?
+
+Bob is not unkind.
+
+-------------------------------------
+
+
+Charlie is kind. Is Charlie kind?
+
+Charlie is kind.
+
+
+-------------------------------------
+Charlie is unkind. Is Charlie kind?
+
+Charlie is unkind.
+
+-------------------------------------
+Charlie is not kind. Is Charlie kind?
+
+Charlie is not kind.
+
+-------------------------------------
+Charlie is not unkind. Is Charlie kind?
+
+Charlie is not unkind.
+-------------------------------------
+
+

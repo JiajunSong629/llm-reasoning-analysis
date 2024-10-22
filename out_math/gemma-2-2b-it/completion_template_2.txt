@@ -1,0 +1,112 @@
+Is 9.11 < 9.8? The answer is yes. 
+
+Here's why:
+
+
+-------------------------------------
+Is 9.11 smaller than 9.8? The answer is yes. 
+
+Here's why:
+
+
+-------------------------------------
+Is 9.11 - 9.8 < 0? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 9.11 > 9.8? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 9.11 greater than 9.8? The answer is yes. 
+
+Here's why:
+
+
+-------------------------------------
+Is 9.11 - 9.8 > 0? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+
+
+Is 1 < 2? The answer is yes. 
+
+Here's why:
+
+
+-------------------------------------
+Is 1 smaller than 2? The answer is yes. 
+
+Here's why:
+
+
+-------------------------------------
+Is 1 - 2 < 0? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 1 > 2? The answer is no. 
+
+Here's why:
+
+
+-------------------------------------
+Is 1 greater than 2? The answer is no. 
+
+This is a simple example of
+-------------------------------------
+Is 1 - 2 > 0? The answer is no.
+
+Here's why:
+
+*
+-------------------------------------
+
+
+Is 0.11 < 0.2? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 0.11 smaller than 0.2? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 0.11 - 0.2 < 0? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 0.11 > 0.2? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 0.11 greater than 0.2? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+Is 0.11 - 0.2 > 0? The answer is yes.
+
+Here's why:
+
+*
+-------------------------------------
+
+

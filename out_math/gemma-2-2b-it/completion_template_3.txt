@@ -1,0 +1,60 @@
+The teacher asks 'Is 9.11 < 9.8?'. The student answers 'Yes'. The teacher asks 'Why do you
+-------------------------------------
+The teacher asks 'Is 9.11 smaller than 9.8?'. The student answers 'No'. Is the student's answer correct
+-------------------------------------
+The teacher asks 'Is 9.11 - 9.8 < 0?'. The student answers 'Yes'. The teacher asks 'Why do you
+-------------------------------------
+The teacher asks 'Is 9.11 > 9.8?'. The student answers 'Yes'. The teacher asks 'Why do you
+-------------------------------------
+The teacher asks 'Is 9.11 greater than 9.8?'. The student answers 'Yes'. The teacher then asks 'What is
+-------------------------------------
+The teacher asks 'Is 9.11 - 9.8 > 0?'. The student answers 'Yes'. The teacher asks 'Why do you
+-------------------------------------
+
+
+The teacher asks 'Is 1 < 2?'. The student answers 'Yes'. 
+
+The teacher then asks '
+-------------------------------------
+The teacher asks 'Is 1 smaller than 2?'. The student answers 'Yes'. 
+
+What is the teacher'
+-------------------------------------
+The teacher asks 'Is 1 - 2 < 0?'. The student answers 'Yes'. The teacher then asks 'Why do
+-------------------------------------
+The teacher asks 'Is 1 > 2?'. The student answers 'No'. 
+
+What is the student'
+-------------------------------------
+The teacher asks 'Is 1 greater than 2?'. The student answers 'No'. 
+
+What is the teacher'
+-------------------------------------
+The teacher asks 'Is 1 - 2 > 0?'. The student answers 'No'.
+
+Here's why the student
+-------------------------------------
+
+
+The teacher asks 'Is 0.11 < 0.2?'. The student answers 'Yes'. 
+
+Is the student's
+-------------------------------------
+The teacher asks 'Is 0.11 smaller than 0.2?'. The student answers 'Yes'.
+
+Is the student's answer
+-------------------------------------
+The teacher asks 'Is 0.11 - 0.2 < 0?'. The student answers 'Yes'. The teacher asks 'Why do you
+-------------------------------------
+The teacher asks 'Is 0.11 > 0.2?'. The student answers 'Yes'. 
+
+Is the student's
+-------------------------------------
+The teacher asks 'Is 0.11 greater than 0.2?'. The student answers 'Yes'.
+
+Here's why the student
+-------------------------------------
+The teacher asks 'Is 0.11 - 0.2 > 0?'. The student answers 'Yes'. Is the student's answer correct
+-------------------------------------
+
+

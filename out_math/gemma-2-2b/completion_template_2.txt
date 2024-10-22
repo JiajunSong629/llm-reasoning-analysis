@@ -1,0 +1,84 @@
+Is 9.11 < 9.8? The answer is yes.
+
+The reason is that 9.
+-------------------------------------
+Is 9.11 smaller than 9.8? The answer is yes.
+
+The 9.11 is
+-------------------------------------
+Is 9.11 - 9.8 < 0? The answer is yes.
+
+The answer is yes.
+
+The
+-------------------------------------
+Is 9.11 > 9.8? The answer is yes.
+
+The 9.11 is
+-------------------------------------
+Is 9.11 greater than 9.8? The answer is yes.
+
+The 9.11 is
+-------------------------------------
+Is 9.11 - 9.8 > 0? The answer is yes.
+
+The answer is yes.
+
+The
+-------------------------------------
+
+
+Is 1 < 2? The answer is yes.
+
+Is 1 < 2?
+-------------------------------------
+Is 1 smaller than 2? The answer is yes.
+
+Is 2 smaller than 1
+-------------------------------------
+Is 1 - 2 < 0? The answer is yes.
+
+The reason is that the inequality is
+-------------------------------------
+Is 1 > 2? The answer is yes.
+
+Is 1 > 2?
+-------------------------------------
+Is 1 greater than 2? The answer is yes.
+
+Is 2 greater than 1
+-------------------------------------
+Is 1 - 2 > 0? The answer is yes.
+
+The answer is no.
+
+The
+-------------------------------------
+
+
+Is 0.11 < 0.2? The answer is yes.
+
+Is 0.11 <
+-------------------------------------
+Is 0.11 smaller than 0.2? The answer is yes.
+
+The number 0.11
+-------------------------------------
+Is 0.11 - 0.2 < 0? The answer is yes.
+
+The answer is yes because 0
+-------------------------------------
+Is 0.11 > 0.2? The answer is yes.
+
+Is 0.11 <
+-------------------------------------
+Is 0.11 greater than 0.2? The answer is yes.
+
+The number 0.11
+-------------------------------------
+Is 0.11 - 0.2 > 0? The answer is yes.
+
+The answer is yes because 0
+-------------------------------------
+
+

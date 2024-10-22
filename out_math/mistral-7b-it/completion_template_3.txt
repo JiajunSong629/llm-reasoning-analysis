@@ -1,0 +1,42 @@
+The teacher asks 'Is 9.11 < 9.8?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 9.11 smaller than 9.8?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 9.11 - 9.8 < 0?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 9.11 > 9.8?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 9.11 greater than 9.8?'. The student answers 'Yes'. The teacher asks 'Is 9
+-------------------------------------
+The teacher asks 'Is 9.11 - 9.8 > 0?'. The student answers 'False
+-------------------------------------
+
+
+The teacher asks 'Is 1 < 2?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 1 smaller than 2?'. The student answers 'Yes'. The teacher asks 'Is 2
+-------------------------------------
+The teacher asks 'Is 1 - 2 < 0?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 1 > 2?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 1 greater than 2?'. The student answers 'No'. The teacher asks 'Is 1
+-------------------------------------
+The teacher asks 'Is 1 - 2 > 0?'. The student answers 'False'. The teacher asks 'Is 1
+-------------------------------------
+
+
+The teacher asks 'Is 0.11 < 0.2?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 0.11 smaller than 0.2?'. The student answers 'Yes'. The teacher asks 'Is 0
+-------------------------------------
+The teacher asks 'Is 0.11 - 0.2 < 0?'. The student answers 'True
+-------------------------------------
+The teacher asks 'Is 0.11 > 0.2?'. The student answers 'False
+-------------------------------------
+The teacher asks 'Is 0.11 greater than 0.2?'. The student answers 'No'. The teacher asks 'Is 0
+-------------------------------------
+The teacher asks 'Is 0.11 - 0.2 > 0?'. The student answers 'False
+-------------------------------------
+
+

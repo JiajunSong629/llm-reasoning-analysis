@@ -1,0 +1,64 @@
+Is 9.11 < 9.8? The answer is yes, but only if you are talking about the
+-------------------------------------
+Is 9.11 smaller than 9.8? The answer is yes.
+
+The reason is that 9
+-------------------------------------
+Is 9.11 - 9.8 < 0? The answer is yes.
+
+Is 9.11
+-------------------------------------
+Is 9.11 > 9.8? The answer is yes, but only if you are talking about the
+-------------------------------------
+Is 9.11 greater than 9.8? The answer is yes.
+
+The reason is that 9
+-------------------------------------
+Is 9.11 - 9.8 > 0? The answer is yes.
+
+Is 9.11
+-------------------------------------
+
+
+Is 1 < 2? The answer is yes. Is 1 < 2 < 
+-------------------------------------
+Is 1 smaller than 2? The answer is yes.
+
+Is 1 smaller than 
+-------------------------------------
+Is 1 - 2 < 0? The answer is yes.
+
+Is 1 - 2
+-------------------------------------
+Is 1 > 2? The answer is yes, if you’re talking about the number
+-------------------------------------
+Is 1 greater than 2? The answer is no. But what if we were to ask the
+-------------------------------------
+Is 1 - 2 > 0? The answer is yes.
+
+Is 1 - 2
+-------------------------------------
+
+
+Is 0.11 < 0.2? The answer is yes, but it’s not as simple as
+-------------------------------------
+Is 0.11 smaller than 0.2? The answer is yes.
+
+Is 0.11
+-------------------------------------
+Is 0.11 - 0.2 < 0? The answer is yes.
+
+## Is 0.1
+-------------------------------------
+Is 0.11 > 0.2? The answer is yes, but only if you’re using the
+-------------------------------------
+Is 0.11 greater than 0.2? The answer is yes.
+
+## Is 0.1
+-------------------------------------
+Is 0.11 - 0.2 > 0? The answer is yes.
+
+The reason is that 0
+-------------------------------------
+
+

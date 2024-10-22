@@ -1,0 +1,77 @@
+Is 9.11 < 9.8? The answer is yes.
+
+Is 1.23 >
+-------------------------------------
+Is 9.11 smaller than 9.8? The answer is no.
+
+Sure, here is the answer:
+-------------------------------------
+Is 9.11 - 9.8 < 0? The answer is yes.
+
+The subtraction of 9.1
+-------------------------------------
+Is 9.11 > 9.8? The answer is yes.
+
+Is 10.1 <
+-------------------------------------
+Is 9.11 greater than 9.8? The answer is yes.
+
+Is 1.23 less
+-------------------------------------
+Is 9.11 - 9.8 > 0? The answer is yes.
+
+The subtraction of 9.1
+-------------------------------------
+
+
+Is 1 < 2? The answer is yes.
+
+Is 2 > 3?
+-------------------------------------
+Is 1 smaller than 2? The answer is yes.
+
+Is 3 larger than 4
+-------------------------------------
+Is 1 - 2 < 0? The answer is -1.
+
+Is 1 - 2
+-------------------------------------
+Is 1 > 2? The answer is no. 1 is less than 2.
+-------------------------------------
+Is 1 greater than 2? The answer is no. 1 is less than 2.
+-------------------------------------
+Is 1 - 2 > 0? The answer is no. 1 - 2 = -1
+-------------------------------------
+
+
+Is 0.11 < 0.2? The answer is yes.
+
+Here is the explanation:
+
+0
+-------------------------------------
+Is 0.11 smaller than 0.2? The answer is yes.
+
+Is 0.11 smaller
+-------------------------------------
+Is 0.11 - 0.2 < 0? The answer is yes.
+
+Here is the solution:
+0
+-------------------------------------
+Is 0.11 > 0.2? The answer is no.
+
+0.11 is less than
+-------------------------------------
+Is 0.11 greater than 0.2? The answer is no.
+
+The difference between 0.1
+-------------------------------------
+Is 0.11 - 0.2 > 0? The answer is yes.
+
+Here is the solution:
+
+0
+-------------------------------------
+
+

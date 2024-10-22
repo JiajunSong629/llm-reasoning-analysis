@@ -1,0 +1,42 @@
+Is 9.11 < 9.8? The answer is True
+-------------------------------------
+Is 9.11 smaller than 9.8? The answer is False
+-------------------------------------
+Is 9.11 - 9.8 < 0? The answer is True
+-------------------------------------
+Is 9.11 > 9.8? The answer is False
+-------------------------------------
+Is 9.11 greater than 9.8? The answer is False
+-------------------------------------
+Is 9.11 - 9.8 > 0? The answer is False
+-------------------------------------
+
+
+Is 1 < 2? The answer is True
+-------------------------------------
+Is 1 smaller than 2? The answer is True
+-------------------------------------
+Is 1 - 2 < 0? The answer is True
+-------------------------------------
+Is 1 > 2? The answer is no. 1 is not greater than 2
+-------------------------------------
+Is 1 greater than 2? The answer is no. 1 is not greater than 2
+-------------------------------------
+Is 1 - 2 > 0? The answer is False
+-------------------------------------
+
+
+Is 0.11 < 0.2? The answer is True
+-------------------------------------
+Is 0.11 smaller than 0.2? The answer is False
+-------------------------------------
+Is 0.11 - 0.2 < 0? The answer is True
+-------------------------------------
+Is 0.11 > 0.2? The answer is False
+-------------------------------------
+Is 0.11 greater than 0.2? The answer is no. 0.11 is less than
+-------------------------------------
+Is 0.11 - 0.2 > 0? The answer is False
+-------------------------------------
+
+

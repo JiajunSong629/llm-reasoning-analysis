@@ -1,0 +1,106 @@
+For the following question, please answer Yes or No. Is 9.11 < 9.8?
+
+Yes.
+
+No.
+
+
+-------------------------------------
+For the following question, please answer Yes or No. Is 9.11 smaller than 9.8?
+
+Yes.
+
+No.
+
+
+-------------------------------------
+For the following question, please answer Yes or No. Is 9.11 - 9.8 < 0?
+
+Yes, 9.11 - 9.
+-------------------------------------
+For the following question, please answer Yes or No. Is 9.11 > 9.8?
+
+Answer Yes.
+
+Answer No.
+-------------------------------------
+For the following question, please answer Yes or No. Is 9.11 greater than 9.8?
+
+Yes.
+
+No.
+
+
+-------------------------------------
+For the following question, please answer Yes or No. Is 9.11 - 9.8 > 0?
+
+Answer: Yes.
+
+Answer:
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Is 1 < 2?
+
+Answer Yes or No. Is 1 <
+-------------------------------------
+For the following question, please answer Yes or No. Is 1 smaller than 2?
+
+Answer Yes or No.
+
+Answer
+-------------------------------------
+For the following question, please answer Yes or No. Is 1 - 2 < 0?
+
+Answer Yes or No.
+
+Answer
+-------------------------------------
+For the following question, please answer Yes or No. Is 1 > 2?
+
+Answer Yes or No. Is 1 >
+-------------------------------------
+For the following question, please answer Yes or No. Is 1 greater than 2?
+
+Answer Yes or No.
+
+Answer
+-------------------------------------
+For the following question, please answer Yes or No. Is 1 - 2 > 0?
+
+Answer Yes or No. Is 1 -
+-------------------------------------
+
+
+For the following question, please answer Yes or No. Is 0.11 < 0.2?
+
+Answer Yes or No. Is 0.
+-------------------------------------
+For the following question, please answer Yes or No. Is 0.11 smaller than 0.2?
+
+Answer Yes.
+
+Answer No.
+-------------------------------------
+For the following question, please answer Yes or No. Is 0.11 - 0.2 < 0?
+
+Answer Yes or No.
+
+Answer
+-------------------------------------
+For the following question, please answer Yes or No. Is 0.11 > 0.2?
+
+Answer Yes or No. Is 0.
+-------------------------------------
+For the following question, please answer Yes or No. Is 0.11 greater than 0.2?
+
+Answer Yes or No. Is 0.
+-------------------------------------
+For the following question, please answer Yes or No. Is 0.11 - 0.2 > 0?
+
+Answer: Yes.
+
+Answer:
+-------------------------------------
+
+

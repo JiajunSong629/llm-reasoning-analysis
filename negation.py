@@ -9,6 +9,8 @@ import plotly.express as px
 import seaborn as sns
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
+from data import get_seqs_happy_negation, get_seqs_math
+
 MODELS = {
     "llama-3-8b": "/home/jiajun/.cache/huggingface/hub/models--meta-llama--Llama-3-8b-hf",
     "gemma-2-2b": "google/gemma-2-2b",
@@ -20,38 +22,10 @@ MODELS = {
     "mistral-7b-it": "mistralai/Mistral-7B-Instruct-v0.1",
 }
 
-
-def get_seqs(template):
-    words = ["healthy", "happy", "kind"]
-    names = ["Alice", "Bob", "Charlie"]
-    instruction_templates = {
-        0: "{{prompt}}",
-        1: "For the following question, please answer Yes or No. {{prompt}}",
-        2: "{{prompt}} The answer is",
-        3: "The teacher asks '{{prompt}}'. The student answers",
-    }
-    instruction = instruction_templates[template]
-
-    seqs = []
-    for word in words:
-        for name in names:
-            seq = [
-                instruction.replace(
-                    "{{prompt}}", f"{name} is {word}. Is {name} {word}?"
-                ),
-                instruction.replace(
-                    "{{prompt}}", f"{name} is un{word}. Is {name} {word}?"
-                ),
-                instruction.replace(
-                    "{{prompt}}", f"{name} is not {word}. Is {name} {word}?"
-                ),
-                instruction.replace(
-                    "{{prompt}}", f"{name} is not un{word}. Is {name} {word}?"
-                ),
-            ]
-            seqs.append(seq)
-
-    return seqs
+SEQ_FUNS = {
+    "happy_negation": get_seqs_happy_negation,
+    "math": get_seqs_math,
+}
 
 
 def completion(model, tokenizer, seqs, template, out_dir, fig_dir):
@@ -74,6 +48,8 @@ def cosine_sim(model, tokenizer, seqs, template, out_dir, fig_dir):
         o = torch.dot(u, v) / (torch.linalg.norm(u) * torch.linalg.norm(v))
         return o.item()
 
+    batch_size, n_comparison = len(hh), len(hh[0])
+
     layer = (
         20
         if model.config.num_hidden_layers > 20
@@ -90,15 +66,15 @@ def cosine_sim(model, tokenizer, seqs, template, out_dir, fig_dir):
         hh.append(h)
         logits.append(out.logits[:, -1].to("cpu").float())
 
-    svals = torch.zeros(3, len(hh) - 1)
-    for k in range(3):
+    svals = torch.zeros(n_comparison - 1, batch_size)
+    for k in range(n_comparison - 1):
         h_diff0 = torch.stack(
             [hh[j][k + 1] - hh[j][0] for j in range(len(hh))], dim=1
         )  # (d_model, batch_size)
         _, s, _ = torch.linalg.svd(h_diff0[:, :-1])
         svals[k] = s
 
-    sims = torch.zeros(3, len(hh))
+    sims = torch.zeros(n_comparison - 1, batch_size)
     sims[0] = torch.tensor(
         [calc_cos_sim(hh[j][1] - hh[j][0], hh[j][2] - hh[j][0]) for j in range(len(hh))]
     )
@@ -109,13 +85,9 @@ def cosine_sim(model, tokenizer, seqs, template, out_dir, fig_dir):
         [calc_cos_sim(hh[j][2] - hh[j][0], hh[j][3] - hh[j][0]) for j in range(len(hh))]
     )
 
-    h_diff = torch.stack(
-        [hh[j][1:] - hh[j][0] for j in range(len(hh))], dim=2
-    )  # (3, d_model, batch_size)
-    norms = torch.norm(h_diff, dim=1)
     fig, axs = plt.subplots(1, 2, figsize=(13, 6))
     labels = ["Un-0", "Not-0", "UnNot-0"]
-    for k in range(3):
+    for k in range(n_comparison - 1):
         axs[0].plot(svals[k], linewidth=2, label=labels[k])
     axs[0].set_title("Svals of embedding diff", weight="bold")
     axs[0].legend()
@@ -130,6 +102,9 @@ def cosine_sim(model, tokenizer, seqs, template, out_dir, fig_dir):
 
 def prediction_probs(model, tokenizer, seqs, template, out_dir, fig_dir):
     target_tokens_ids = tokenizer.convert_tokens_to_ids(["Yes", "No", "yes", "no"])
+
+    batch_size, n_comparison = len(seqs), len(seqs[0])
+
     layer = (
         20
         if model.config.num_hidden_layers > 20
@@ -149,13 +124,14 @@ def prediction_probs(model, tokenizer, seqs, template, out_dir, fig_dir):
     logits_subset = torch.stack(logits, dim=2)[:, target_tokens_ids, :]
     probs = torch.softmax(logits_subset, dim=1)
 
-    y = np.zeros((4, 5))
-    y[:, 0] = np.arange(4)
+    y = np.zeros((n_comparison, 5))
+    y[:, 0] = np.arange(n_comparison)
     y[:, 1:] = probs[:, :, :-1].mean(dim=2).numpy()
     df = pd.DataFrame(y, columns=["prompt type", "Yes", "No", "yes", "no"])
     ax = df.plot(x="prompt type", y=["Yes", "No", "yes", "no"], kind="bar", rot=0)
     ax.set_title("Prediction Probs", weight="bold")
-    ax.set_xticklabels(["0", "Un", "Not", "UnNot"], weight="bold")
+    # ax.set_xticklabels(seqs[0], weight="bold", rotation=45, ha='right')
+    # ax.set_xticklabels(["0", "Un", "Not", "UnNot"], weight="bold")
     plt.savefig(f"{fig_dir}/prediction_probs_template_{template}.png")
     plt.close()
 
@@ -168,6 +144,8 @@ def diff_analysis(model, tokenizer, seqs, template, out_dir, fig_dir):
     else:
         norm = model.model.norm
         lm_head = model.lm_head
+
+    batch_size, n_comparison = len(hh), len(hh[0])
 
     layer = (
         20
@@ -216,7 +194,7 @@ def diff_analysis(model, tokenizer, seqs, template, out_dir, fig_dir):
             f.write("#######################################\n\n")
 
 
-def main(model_name, out_dir=None, fig_dir=None):
+def main(model_name, seq_fun: str, out_dir=None, fig_dir=None):
     model = AutoModelForCausalLM.from_pretrained(
         MODELS[model_name],
         output_hidden_states=True,
@@ -228,6 +206,7 @@ def main(model_name, out_dir=None, fig_dir=None):
     if out_dir is None:
         # replace - with _
         out_dir = f"out/{model_name.replace('-', '_')}"
+    if fig_dir is None:
         fig_dir = f"{out_dir}/figs"
 
     os.makedirs(out_dir, exist_ok=True)
@@ -237,7 +216,7 @@ def main(model_name, out_dir=None, fig_dir=None):
     tokenizer.pad_token = tokenizer.eos_token
 
     for template in range(4):
-        seqs = get_seqs(template)
+        seqs = SEQ_FUNS[seq_fun](template)
 
         ## test text generation
         completion(model, tokenizer, seqs, template, out_dir, fig_dir)
@@ -245,11 +224,12 @@ def main(model_name, out_dir=None, fig_dir=None):
         # prediction probs
         prediction_probs(model, tokenizer, seqs, template, out_dir, fig_dir)
 
-        # cosine sim
-        cosine_sim(model, tokenizer, seqs, template, out_dir, fig_dir)
+        if seq_fun == "happy_negation":
+            # cosine sim
+            cosine_sim(model, tokenizer, seqs, template, out_dir, fig_dir)
 
-        # diff analysis
-        diff_analysis(model, tokenizer, seqs, template, out_dir, fig_dir)
+            # diff analysis
+            diff_analysis(model, tokenizer, seqs, template, out_dir, fig_dir)
 
 
 if __name__ == "__main__":
@@ -257,7 +237,8 @@ if __name__ == "__main__":
 
     args = argparse.ArgumentParser()
     args.add_argument("--model_name", type=str, default="llama-3-8b")
+    args.add_argument("--seq_fun", type=str, default="happy_negation")
     args.add_argument("--out_dir", type=str, default=None)
     args.add_argument("--fig_dir", type=str, default=None)
     args = args.parse_args()
-    main(args.model_name, args.out_dir, args.fig_dir)
+    main(args.model_name, args.seq_fun, args.out_dir, args.fig_dir)

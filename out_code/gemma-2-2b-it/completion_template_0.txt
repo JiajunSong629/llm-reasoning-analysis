@@ -1,0 +1,38 @@
+True and False = True
+
+This is a simple example of how to
+-------------------------------------
+True or False = 
+
+The sum of the interior angles of a
+-------------------------------------
+True and (not False) = True
+
+Here's why:
+
+* **
+-------------------------------------
+(not True) or False = True
+
+This statement is a classic example of a
+-------------------------------------
+If A = True, B = False, then A and B = ?
+
+**Answer:** False
+
+**Explanation:**
+-------------------------------------
+If A = True, B = False, then A or B = ?
+
+Here's how to solve it:
+-------------------------------------
+If A = True, B = False, then A and (not B) = ?
+
+Here's how to solve it:
+-------------------------------------
+If A = True, B = False, then (not A) or B = ?
+
+Here's how to solve it:
+-------------------------------------
+
+

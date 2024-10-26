@@ -1,0 +1,24 @@
+For the following question, please answer True or False. True and False = T/F
+
+What is the capital of
+-------------------------------------
+For the following question, please answer True or False. True or False = T or F.
+Answer: True
+-------------------------------------
+For the following question, please answer True or False. True and (not False) = T, False and (not True) = F
+-------------------------------------
+For the following question, please answer True or False. (not True) or False = False
+
+True or False: The smallest prime
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then A and B = False. If A = False, B = True
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then A or B = True. If A = False, B = True
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then A and (not B) = True. If A = False, B = True
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then (not A) or B = True.
+Answer: True
+-------------------------------------
+
+

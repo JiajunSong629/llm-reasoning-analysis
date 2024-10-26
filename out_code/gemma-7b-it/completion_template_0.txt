@@ -1,0 +1,32 @@
+True and False =
+
+True or False: The digestive system is responsible
+-------------------------------------
+True or False = The enthalpy change for a reaction is always positive.
+-------------------------------------
+True and (not False) =
+
+The function of the mitochondria is to produce energy
+-------------------------------------
+(not True) or False = The enthalpy of formation for a compound is zero if
+-------------------------------------
+If A = True, B = False, then A and B = True or False?
+
+The answer is False.
+-------------------------------------
+If A = True, B = False, then A or B = True.
+
+This is a logical OR statement.
+-------------------------------------
+If A = True, B = False, then A and (not B) = True.
+
+This statement is True or False.
+-------------------------------------
+If A = True, B = False, then (not A) or B = True.
+
+This statement is True.
+
+Here
+-------------------------------------
+
+

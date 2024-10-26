@@ -1,0 +1,41 @@
+For the following question, please answer True or False. True and False = 1 or 0.
+
+**Statement:**
+-------------------------------------
+For the following question, please answer True or False. True or False = 
+
+The sum of the interior angles of a
+-------------------------------------
+For the following question, please answer True or False. True and (not False) = True.
+
+**Statement:** The sum of two
+-------------------------------------
+For the following question, please answer True or False. (not True) or False = (not True)
+
+**Statement:** The sum
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then A and B = True.
+
+**Question:**
+
+The statement "
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then A or B = True.
+
+**Question:**
+
+Is the statement
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then A and (not B) = True.
+
+**Answer:** True 
+**
+-------------------------------------
+For the following question, please answer True or False. If A = True, B = False, then (not A) or B = True.
+
+**Answer:** True
+
+**Explanation
+-------------------------------------
+
+

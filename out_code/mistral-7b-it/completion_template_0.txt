@@ -1,0 +1,29 @@
+True and False = 100
+
+True = 1
+-------------------------------------
+True or False = True
+-------------------------------------
+True and (not False) = True
+
+False and True = False
+
+
+-------------------------------------
+(not True) or False = True
+-------------------------------------
+If A = True, B = False, then A and B = False
+-------------------------------------
+If A = True, B = False, then A or B = True.
+A = True
+B = False
+-------------------------------------
+If A = True, B = False, then A and (not B) = True.
+A = True
+B = False
+-------------------------------------
+If A = True, B = False, then (not A) or B = True.
+A: True
+-------------------------------------
+
+
